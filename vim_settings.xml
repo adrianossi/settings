@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458847494909">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458854196476">
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
-        <mark key="[" line="22" column="0" />
+        <mark key="[" line="25" column="37" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/rest/src/main/java/com/bullhorn/rest/handler/publicapi/nps/AbstractNpsHandlerPublicApi.java" timestamp="1458850645844" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/rest/src/main/java/com/bullhorn/rest/handler/publicapi/nps/AbstractNpsHandlerPublicApi.java" timestamp="1458853616383" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/queuetable/QueueTableRunner.java" timestamp="1458848477576" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
@@ -61,15 +61,16 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" timestamp="1458842931194">
         <mark key="'" line="0" column="21" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Templating.scala" timestamp="1458854136794" />
       <file name="/fragment.java" timestamp="1458756872545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" timestamp="1458837029591">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" timestamp="1458853686568">
         <mark key="'" line="79" column="38" />
-        <mark key="]" line="80" column="4" />
-        <mark key="^" line="80" column="1" />
-        <mark key="." line="80" column="4" />
-        <mark key="[" line="80" column="0" />
+        <mark key="]" line="114" column="58" />
+        <mark key="^" line="114" column="3" />
+        <mark key="." line="114" column="4" />
+        <mark key="[" line="114" column="4" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/autoadd/AutoAddContactTest.java" timestamp="1458597288884">
         <mark key="'" line="707" column="87" />
@@ -185,8 +186,8 @@
       <jump line="0" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VEaXJlY3RvcmllcyBpbiBDb21waWxlLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmVzb3VyY2VHZW5lcmF0b3JzIGluIENvbXBpbGUgPCs9IHRlbXBsYXRlR2l0U3RhdHVzKCks</text>
       </register>
       <register name="a" type="4">
         <keys>
@@ -199,40 +200,40 @@
         <text>pulse</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cmVzb3VyY2VHZW5lcmF0b3JzIGluIENvbXBpbGUgPCs9IHRlbXBsYXRlR2l0U3RhdHVzKCks</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgdW5tYW5hZ2VkUmVzb3VyY2VEaXJlY3RvcmllcyBpbiBDb21waWxlLAo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgcmVzb3VyY2VEaXJlY3RvcmllcyBpbiBDb21waWxlLAo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">cmVzb3VyY2VHZW5lcmF0b3JzIGluIENvbXBpbGUgPCs9IHRlbXBsYXRlR2l0U3RhdHVzKCks</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgdDogVGhyb3dhYmxlID0+ICJ1bmFibGUgdG8gY3JlYXRlIGZvbGRlciIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">d2ViYXBwRGlyZWN0b3J5IA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>resourceDirs, sourceDirs,</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgdDogVGhyb3dhYmxlID0+ICJ1bmFibGUgdG8gY3JlYXRlIGZvbGRlciIK</text>
       </register>
     </registers>
     <search>
