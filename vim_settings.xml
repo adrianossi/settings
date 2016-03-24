@@ -1,0 +1,342 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458847494909">
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/queuetable/QueueTableRunner.java" timestamp="1458848477576" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
+        <mark key="[" line="47" column="58" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1458758614793">
+        <mark key="'" line="816" column="57" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/mailet/BullhornDelivery.java" timestamp="1458747928778">
+        <mark key="'" line="168" column="17" />
+        <mark key="]" line="285" column="0" />
+        <mark key="^" line="285" column="42" />
+        <mark key="." line="285" column="0" />
+        <mark key="[" line="285" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1458664806862">
+        <mark key="[" line="288" column="50" />
+      </file>
+      <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
+        <mark key="[" line="194" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1458756812749">
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="61" column="45" />
+        <mark key="." line="31" column="0" />
+        <mark key="[" line="31" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/rest/src/main/java/com/bullhorn/rest/handler/publicapi/nps/NpsGetHandlerPublicApi.java" timestamp="1458848288465" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/CallLogServiceImpl.java" timestamp="1458572941536">
+        <mark key="[" line="58" column="87" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/queuetable/QueueTableProcessor.java" timestamp="1458842938987" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1458758510320">
+        <mark key="'" line="124" column="22" />
+        <mark key="]" line="104" column="27" />
+        <mark key="^" line="124" column="30" />
+        <mark key="." line="104" column="27" />
+        <mark key="[" line="104" column="27" />
+      </file>
+      <file name="/Scala Console" timestamp="1458675487566">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/rest/src/main/java/com/bullhorn/rest/handler/cards/CardHandler.java" timestamp="1458838123765" />
+      <file name="/Dummy.txt" timestamp="1458588863118">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/EmailProcessor.java" timestamp="1458849447929" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" timestamp="1458842931194">
+        <mark key="'" line="0" column="21" />
+      </file>
+      <file name="/fragment.java" timestamp="1458756872545">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" timestamp="1458837029591">
+        <mark key="'" line="79" column="38" />
+        <mark key="]" line="80" column="4" />
+        <mark key="^" line="80" column="1" />
+        <mark key="." line="80" column="4" />
+        <mark key="[" line="80" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/autoadd/AutoAddContactTest.java" timestamp="1458597288884">
+        <mark key="'" line="707" column="87" />
+        <mark key="]" line="206" column="58" />
+        <mark key="^" line="206" column="73" />
+        <mark key="." line="206" column="58" />
+        <mark key="[" line="206" column="58" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" timestamp="1458845611966">
+        <mark key="'" line="79" column="32" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="247" column="8" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="251" column="69" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="276" column="48" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1205" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="136" column="20" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="139" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="140" column="41" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="258" column="65" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="832" column="87" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/autoadd/AutoAddContactTest.java" />
+      <jump line="863" column="87" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/autoadd/AutoAddContactTest.java" />
+      <jump line="882" column="117" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/autoadd/AutoAddContactTest.java" />
+      <jump line="703" column="87" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/autoadd/AutoAddContactTest.java" />
+      <jump line="1198" column="64" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1264" column="39" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1272" column="58" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1304" column="39" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1393" column="35" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1448" column="31" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1449" column="51" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1456" column="26" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1508" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1522" column="23" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1543" column="39" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1566" column="64" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1573" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1574" column="15" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1878" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2263" column="37" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2266" column="50" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2328" column="63" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2341" column="34" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2342" column="23" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2347" column="50" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2355" column="37" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2358" column="43" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2561" column="31" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2728" column="69" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2755" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2761" column="12" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="3191" column="20" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="323" column="34" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="454" column="92" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="457" column="61" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1206" column="20" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="138" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="141" column="55" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="142" column="33" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="343" column="72" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="529" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="300" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="0" column="0" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="428" column="22" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/rest-services/src/main/resources/rest-services-context.xml" />
+      <jump line="141" column="37" filename="C:/Repositories/mitching/lib/bullhorn-email-0.1.jar!/com/bullhorn/email/service/impl/EmailServiceImpl.class" />
+      <jump line="44" column="2" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/mailet/BullhornDelivery.java" />
+      <jump line="278" column="48" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" />
+      <jump line="279" column="49" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" />
+      <jump line="119" column="22" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" />
+      <jump line="20" column="11" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="19" column="30" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="31" column="78" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="32" column="52" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="49" column="42" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="57" column="59" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="86" column="4" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="87" column="4" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="135" column="146" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="12" column="23" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="17" column="22" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="115" column="186" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="120" column="32" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="123" column="30" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="142" column="46" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="145" column="32" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="147" column="11" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="152" column="103" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="166" column="48" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="143" column="57" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="174" column="97" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="228" column="123" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="102" column="83" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="138" column="111" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="108" column="24" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="93" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="289" column="0" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="623" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="816" column="57" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="168" column="17" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/mailet/BullhornDelivery.java" />
+      <jump line="79" column="32" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
+      <jump line="89" column="4" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="129" column="86" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="130" column="62" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="176" column="119" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="12" column="10" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="52" column="9" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="24" column="71" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="73" column="31" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="74" column="77" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="79" column="38" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="82" column="42" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
+      <jump line="0" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VEaXJlY3RvcmllcyBpbiBDb21waWxlLAo=</text>
+      </register>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="/" type="4">
+        <text>pulse</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdW5tYW5hZ2VkUmVzb3VyY2VEaXJlY3RvcmllcyBpbiBDb21waWxlLAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VEaXJlY3RvcmllcyBpbiBDb21waWxlLAo=</text>
+      </register>
+      <register name="0" type="4">
+        <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgdDogVGhyb3dhYmxlID0+ICJ1bmFibGUgdG8gY3JlYXRlIGZvbGRlciIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">d2ViYXBwRGlyZWN0b3J5IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>resourceDirs, sourceDirs,</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIHsK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>pulse</last-search>
+      <last-offset />
+      <last-pattern>pulse</last-pattern>
+      <last-replace>,\r</last-replace>
+      <last-substitute encoding="base64">LCA=</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>duplicate</entry>
+        <entry>${}</entry>
+        <entry>${</entry>
+        <entry encoding="base64">XDxlbWFpbFw+</entry>
+        <entry>Copy</entry>
+        <entry>docopy</entry>
+        <entry>artifact</entry>
+        <entry>Compile</entry>
+        <entry>app</entry>
+        <entry>web</entry>
+        <entry>classes</entry>
+        <entry>resourceMana</entry>
+        <entry>FAIL</entry>
+        <entry>fail</entry>
+        <entry>package</entry>
+        <entry>git</entry>
+        <entry>Version</entry>
+        <entry>template</entry>
+        <entry>pulseEmail</entry>
+        <entry>pulse</entry>
+      </history-search>
+      <history-cmd>
+        <entry>ws</entry>
+        <entry>qw</entry>
+        <entry>we</entry>
+        <entry>287</entry>
+        <entry>222</entry>
+        <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
+        <entry>q</entry>
+        <entry>% s/PersonName()/PersonName(&quot;&quot;,&quot;&quot;)/g</entry>
+        <entry encoding="base64">JzwsJz4lIHMvLCAvLFxyL2c=</entry>
+        <entry encoding="base64">JzwsJz4lIHMvLCAvLFxyLw==</entry>
+        <entry encoding="base64">JzwsJz5zLywgLyxcci9n</entry>
+        <entry>130</entry>
+        <entry>wq</entry>
+        <entry>e</entry>
+        <entry>&quot;w</entry>
+        <entry>194</entry>
+        <entry>264</entry>
+        <entry>W</entry>
+        <entry>160</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
