@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458922255732">
-        <mark key="]" line="5" column="33" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458923022296">
+        <mark key="]" line="6" column="57" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
-        <mark key="[" line="5" column="72" />
+        <mark key="[" line="6" column="37" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/rest/src/main/java/com/bullhorn/rest/handler/publicapi/nps/AbstractNpsHandlerPublicApi.java" timestamp="1458853616383" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/queuetable/QueueTableRunner.java" timestamp="1458848477576" />
@@ -188,7 +188,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVzb3VyY2VHZW5lcmF0b3JzIGluIENvbXBpbGUgPCs9IHRlbXBsYXRlR2l0U3RhdHVzKCks</text>
+        <text>git symbolic-ref HEAD</text>
       </register>
       <register name="a" type="4">
         <keys>
