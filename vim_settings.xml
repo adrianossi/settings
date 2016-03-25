@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458920536125">
-        <mark key="]" line="6" column="52" />
-        <mark key="^" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-        <mark key="[" line="25" column="37" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458922255732">
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="[" line="5" column="72" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/rest/src/main/java/com/bullhorn/rest/handler/publicapi/nps/AbstractNpsHandlerPublicApi.java" timestamp="1458853616383" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/queuetable/QueueTableRunner.java" timestamp="1458848477576" />
