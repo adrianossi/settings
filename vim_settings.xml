@@ -51,14 +51,15 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459195061200">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459196703326">
         <mark key="'" line="816" column="57" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459194574288">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="31" column="66" />
-        <mark key="." line="64" column="0" />
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459196807208">
+        <mark key="'" line="65" column="20" />
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="16" />
+        <mark key="." line="65" column="16" />
+        <mark key="^" line="65" column="16" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/target/webapp/version.jsp" timestamp="1459188824697" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
@@ -91,7 +92,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="8" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="251" column="69" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="276" column="48" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="1205" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
@@ -191,6 +191,7 @@
       <jump line="79" column="38" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="82" column="42" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
       <jump line="0" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
+      <jump line="64" column="20" filename="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -211,60 +212,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLyp7CgoKICAgICAgICAgICAgfSkqLzsKICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgdCkgewogICAgICAgICAgICByZXR1cm4gVXRpbHMuZXJyb3IodC5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0=</text>
+        <text encoding="base64">RXhlY3V0b3JTZXJ2aWNlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>DevMachine</text>
+        <text encoding="base64">RXhlY3V0b3JTZXJ2aWNlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>pulse</text>
+        <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLyp7CgoKICAgICAgICAgICAgfSkqLzsKICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgdCkgewogICAgICAgICAgICByZXR1cm4gVXRpbHMuZXJyb3IodC5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0=</text>
+        <text encoding="base64">RXhlY3V0b3JTZXJ2aWNlIA==</text>
       </register>
       <register name="2" type="4">
-        <text>DevMachine</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">cmVzb3VyY2VHZW5lcmF0b3JzIGluIENvbXBpbGUgPCs9IHRlbXBsYXRlR2l0U3RhdHVzKCks</text>
+        <text>s</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VEaXJlY3RvcmllcyBpbiBDb21waWxlLAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdW5tYW5hZ2VkUmVzb3VyY2VEaXJlY3RvcmllcyBpbiBDb21waWxlLAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRocmVhZFBvb2xFeGVjdXRvcjsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>resourceDirs, sourceDirs,</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyp7CgoKICAgICAgICAgICAgfSkqLzsKICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgdCkgewogICAgICAgICAgICByZXR1cm4gVXRpbHMuZXJyb3IodC5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">d2ViYXBwRGlyZWN0b3J5IA==</text>
+        <text>DevMachine</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmVzb3VyY2VHZW5lcmF0b3JzIGluIENvbXBpbGUgPCs9IHRlbXBsYXRlR2l0U3RhdHVzKCks</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1449</text>
       </register>
     </registers>
     <search>
-      <last-search>pulse</last-search>
+      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>pulse</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>duplicate</entry>
         <entry>${}</entry>
         <entry>${</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
@@ -284,9 +284,9 @@
         <entry>template</entry>
         <entry>pulseEmail</entry>
         <entry>pulse</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>ws</entry>
         <entry>qw</entry>
         <entry>we</entry>
         <entry>287</entry>
@@ -306,6 +306,7 @@
         <entry>W</entry>
         <entry>160</entry>
         <entry>w</entry>
+        <entry>1449</entry>
       </history-cmd>
       <history-expr />
       <history-input />
