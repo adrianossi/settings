@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1458588863118">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Scala Console" timestamp="1458675487566">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsTest.scala" timestamp="1459367326342">
+        <mark key="[" line="21" column="256" />
+        <mark key="]" line="21" column="254" />
+        <mark key="^" line="21" column="254" />
+        <mark key="." line="21" column="254" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/mailet/BullhornDelivery.java" timestamp="1458747928778">
         <mark key="'" line="168" column="17" />
@@ -26,6 +26,38 @@
         <mark key="^" line="206" column="73" />
         <mark key="." line="206" column="58" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/magma/pom.xml" timestamp="1459187590665">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+        <mark key="^" line="12" column="49" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1459197691727" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/CallLogServiceImpl.java" timestamp="1458572941536">
+        <mark key="[" line="58" column="87" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459200692107">
+        <mark key="'" line="816" column="57" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/target/webapp/version.jsp" timestamp="1459188824697" />
+      <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
+        <mark key="[" line="194" column="20" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458923022296">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="57" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1458588863118">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Scala Console" timestamp="1459367284430">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" timestamp="1458853686568">
         <mark key="'" line="79" column="38" />
         <mark key="[" line="114" column="4" />
@@ -33,27 +65,14 @@
         <mark key="^" line="114" column="3" />
         <mark key="." line="114" column="4" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/pom.xml" timestamp="1459187590665">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="49" />
-        <mark key="." line="12" column="49" />
-        <mark key="^" line="12" column="49" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1458756812749">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="61" column="45" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1459197691727" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/CallLogServiceImpl.java" timestamp="1458572941536">
-        <mark key="[" line="58" column="87" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459200692107">
-        <mark key="'" line="816" column="57" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459364827152">
         <mark key="[" line="78" column="77" />
@@ -61,7 +80,6 @@
         <mark key="^" line="80" column="50" />
         <mark key="." line="80" column="50" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/target/webapp/version.jsp" timestamp="1459188824697" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
@@ -74,15 +92,6 @@
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" timestamp="1458845611966">
         <mark key="'" line="79" column="32" />
-      </file>
-      <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
-        <mark key="[" line="194" column="20" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458923022296">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="57" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="33" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" timestamp="1458842931194">
         <mark key="'" line="0" column="21" />
