@@ -55,12 +55,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459200692107">
         <mark key="'" line="816" column="57" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459357343876">
-        <mark key="'" line="65" column="20" />
-        <mark key="[" line="65" column="42" />
-        <mark key="]" line="65" column="16" />
-        <mark key="." line="65" column="16" />
-        <mark key="^" line="65" column="16" />
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459360814333">
+        <mark key="[" line="78" column="77" />
+        <mark key="]" line="80" column="50" />
+        <mark key="^" line="80" column="50" />
+        <mark key="." line="80" column="50" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/target/webapp/version.jsp" timestamp="1459188824697" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
@@ -252,7 +251,7 @@
         <text encoding="base64">cmVzb3VyY2VHZW5lcmF0b3JzIGluIENvbXBpbGUgPCs9IHRlbXBsYXRlR2l0U3RhdHVzKCks</text>
       </register>
       <register name=":" type="4">
-        <text>134</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -304,10 +303,10 @@
         <entry>264</entry>
         <entry>W</entry>
         <entry>160</entry>
-        <entry>w</entry>
         <entry>1449</entry>
         <entry>124</entry>
         <entry>134</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
