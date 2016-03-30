@@ -55,7 +55,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459200692107">
         <mark key="'" line="816" column="57" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459351612403">
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459357343876">
         <mark key="'" line="65" column="20" />
         <mark key="[" line="65" column="42" />
         <mark key="]" line="65" column="16" />
@@ -252,7 +252,7 @@
         <text encoding="base64">cmVzb3VyY2VHZW5lcmF0b3JzIGluIENvbXBpbGUgPCs9IHRlbXBsYXRlR2l0U3RhdHVzKCks</text>
       </register>
       <register name=":" type="4">
-        <text>1449</text>
+        <text>134</text>
       </register>
     </registers>
     <search>
@@ -288,8 +288,6 @@
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
-        <entry>we</entry>
         <entry>287</entry>
         <entry>222</entry>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -308,6 +306,8 @@
         <entry>160</entry>
         <entry>w</entry>
         <entry>1449</entry>
+        <entry>124</entry>
+        <entry>134</entry>
       </history-cmd>
       <history-expr />
       <history-input />
