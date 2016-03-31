@@ -26,11 +26,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1459193074166">
         <mark key="[" line="288" column="50" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/pom.xml" timestamp="1459187590665">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="49" />
-        <mark key="." line="12" column="49" />
-        <mark key="^" line="12" column="49" />
+      <file name="C:/Bullhorn/Tools/bh-env/magma/pom.xml" timestamp="1459440473538">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1458756812749">
         <mark key="[" line="31" column="0" />
@@ -38,11 +38,11 @@
         <mark key="^" line="61" column="45" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactOnlyAutoAddTest.scala" timestamp="1459437050570">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="74" />
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactOnlyAutoAddTest.scala" timestamp="1459441023372">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="38" />
         <mark key="^" line="28" column="30" />
-        <mark key="." line="28" column="30" />
+        <mark key="." line="28" column="38" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
@@ -62,6 +62,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459200692107">
         <mark key="'" line="816" column="57" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459441374246" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
@@ -211,10 +212,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIHNlcyA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKCk7</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIHNlcyA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKCk7</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
@@ -223,31 +224,31 @@
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="4">
+        <text>0</text>
+      </register>
+      <register name="2" type="4">
+        <text>0</text>
+      </register>
+      <register name="3" type="4">
+        <text>0</text>
+      </register>
+      <register name="4" type="4">
+        <text>c</text>
+      </register>
+      <register name="5" type="4">
+        <text>/</text>
+      </register>
+      <register name="6" type="4">
+        <text>C:/DevMachine</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIHNlcyA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKCk7</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGVycm9ySGFwcGVuZWQgPSBmYWxzZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFV0aWxzLmpzb25pZnkoIkFsbCBnb29kIGJ1ZGR5Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -300,12 +301,12 @@
         <entry>&quot;w</entry>
         <entry>194</entry>
         <entry>264</entry>
-        <entry>W</entry>
         <entry>160</entry>
         <entry>1449</entry>
         <entry>124</entry>
         <entry>134</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
