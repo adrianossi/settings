@@ -12,10 +12,10 @@
       <file name="/Dummy.txt" timestamp="1458588863118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsNoAutoAddOrRedisTest.scala" timestamp="1459437060912">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsNoAutoAddOrRedisTest.scala" timestamp="1459445445355">
+        <mark key="[" line="25" column="270" />
+        <mark key="]" line="25" column="270" />
+        <mark key="." line="25" column="270" />
       </file>
       <file name="/Scala Console" timestamp="1459367284430">
         <mark key="[" line="0" column="0" />
@@ -85,11 +85,11 @@
       <file name="/fragment.java" timestamp="1459368604442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459444846899">
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="28" />
-        <mark key="." line="29" column="28" />
-        <mark key="^" line="29" column="28" />
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459445393764">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="25" />
       </file>
       <file name="C:/Repositories/pulse_mobile/app/services/callLogs/callLog.js" timestamp="1459445199014" />
     </filemarks>
@@ -214,10 +214,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
@@ -226,31 +226,31 @@
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>3</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
         <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>C:/DevMachine</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIHNlcyA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKCk7</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
