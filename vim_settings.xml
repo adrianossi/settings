@@ -9,7 +9,20 @@
         <mark key="^" line="29" column="43" />
         <mark key="." line="25" column="242" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsNoAutoAddOrRedisTest.scala" timestamp="1459369169548" />
+      <file name="/Dummy.txt" timestamp="1458588863118">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsNoAutoAddOrRedisTest.scala" timestamp="1459437060912">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="/Scala Console" timestamp="1459367284430">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1459193074166">
         <mark key="[" line="288" column="50" />
       </file>
@@ -19,44 +32,17 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1459197691727" />
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactOnlyAutoAddTest.scala" timestamp="1459369192205">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="24" column="276" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/CallLogServiceImpl.java" timestamp="1458572941536">
-        <mark key="[" line="58" column="87" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459200692107">
-        <mark key="'" line="816" column="57" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/target/webapp/version.jsp" timestamp="1459188824697" />
-      <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
-        <mark key="[" line="194" column="20" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458923022296">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="57" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459368995018" />
-      <file name="/Dummy.txt" timestamp="1458588863118">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Scala Console" timestamp="1459367284430">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1458756812749">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="61" column="45" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactOnlyAutoAddTest.scala" timestamp="1459437050570">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="74" />
+        <mark key="^" line="28" column="30" />
+        <mark key="." line="28" column="30" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
@@ -67,10 +53,16 @@
         <mark key="^" line="24" column="244" />
         <mark key="." line="24" column="244" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/CallLogServiceImpl.java" timestamp="1458572941536">
+        <mark key="[" line="58" column="87" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459367699200">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459200692107">
+        <mark key="'" line="816" column="57" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459437340820">
         <mark key="[" line="78" column="77" />
         <mark key="]" line="80" column="50" />
         <mark key="^" line="80" column="50" />
@@ -86,9 +78,22 @@
         <mark key="^" line="124" column="30" />
         <mark key="." line="104" column="27" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/triggerwords/TriggerWordsMoreTest.scala" timestamp="1459368071723" />
+      <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
+        <mark key="[" line="194" column="20" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458923022296">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="57" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
       <file name="/fragment.java" timestamp="1459368604442">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459437073891">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -211,11 +216,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlzY24uaW5qZWN0KHJhbXBVc2VycygxMDAwMDApIG92ZXIoMTAwMCBzZWNvbmRzKSkucHJvdG9jb2xzKGh0dHBQcm90b2NvbCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>dLAW&quot;)</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
@@ -223,32 +228,32 @@
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlzY24uaW5qZWN0KHJhbXBVc2VycygxMDAwMDApIG92ZXIoMTAwMCBzZWNvbmRzKSkucHJvdG9jb2xzKGh0dHBQcm90b2NvbCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
-      <register name="2" type="4">
-        <text>dLAW&quot;)</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlzY24uaW5qZWN0KHJhbXBVc2VycygxMDAwMDAwKSBvdmVyKDEwMDAwIHNlY29uZHMpKS5wcm90b2NvbHMoaHR0cFByb3RvY29sKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>false</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlzY24uaW5qZWN0KHJhbXBVc2VycygxMDAwMDAwKSBvdmVyKDEwMDAwIHNlY29uZHMpKS5wcm90b2NvbHMoaHR0cFByb3RvY29sKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>&quot; + System.currentTimeMillis() + &quot;</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>atOnceUsers</text>
+        <text>0</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">RXhlY3V0b3JTZXJ2aWNlIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlzY24uaW5qZWN0KHJhbXBVc2VycygxMDAwMDApIG92ZXIoMTAwMCBzZWNvbmRzKSkucHJvdG9jb2xzKGh0dHBQcm90b2NvbCkK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>dLAW&quot;)</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>false</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsK</text>
+      <register name="9" type="4">
+        <text>&quot; + System.currentTimeMillis() + &quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
