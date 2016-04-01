@@ -89,8 +89,8 @@
       <file name="/fragment.java" timestamp="1459368604442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459532339586">
-        <mark key="[" line="29" column="26" />
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459543331480">
+        <mark key="[" line="29" column="37" />
         <mark key="]" line="29" column="37" />
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
@@ -217,10 +217,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>rc.getProperties().</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>rc.getProperties().</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
@@ -229,22 +229,22 @@
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="4">
-        <text>rc.getProperties().</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>rc.getProperties().</text>
       </register>
       <register name="3" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>5</text>
       </register>
       <register name="5" type="4">
-        <text>failed to send email for reaso</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>failed to send email for reaso</text>
       </register>
       <register name="7" type="4">
         <text>0</text>
@@ -253,7 +253,7 @@
         <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
