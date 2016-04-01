@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1458588863118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsNoAutoAddOrRedisTest.scala" timestamp="1459460023287">
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsNoAutoAddOrRedisTest.scala" timestamp="1459461214522">
         <mark key="[" line="25" column="270" />
         <mark key="]" line="25" column="270" />
         <mark key="." line="25" column="270" />
@@ -38,11 +38,11 @@
         <mark key="^" line="61" column="45" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactOnlyAutoAddTest.scala" timestamp="1459460027720">
-        <mark key="[" line="23" column="122" />
-        <mark key="]" line="23" column="122" />
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactOnlyAutoAddTest.scala" timestamp="1459522128292">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
         <mark key="^" line="23" column="122" />
-        <mark key="." line="23" column="122" />
+        <mark key="." line="30" column="27" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
@@ -62,7 +62,9 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459444906967">
         <mark key="'" line="816" column="57" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459444774917" />
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459460816931">
+        <mark key="[" line="38" column="8" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
@@ -85,13 +87,12 @@
       <file name="/fragment.java" timestamp="1459368604442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459460032783">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459461205820">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="73" />
+        <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="C:/Repositories/pulse_mobile/app/services/callLogs/callLog.js" timestamp="1459445199014" />
     </filemarks>
     <jumps>
       <jump line="251" column="69" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
@@ -214,10 +215,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
@@ -226,31 +227,31 @@
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>5</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>true</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>3</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
