@@ -59,7 +59,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459444906967">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459780014744">
         <mark key="'" line="816" column="57" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459533476574">
@@ -85,9 +85,6 @@
         <mark key="]" line="6" column="57" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
-      </file>
-      <file name="/fragment.java" timestamp="1459368604442">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459543331480">
         <mark key="[" line="29" column="37" />
