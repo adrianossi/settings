@@ -9,22 +9,13 @@
         <mark key="^" line="29" column="43" />
         <mark key="." line="25" column="242" />
       </file>
-      <file name="/Dummy.txt" timestamp="1458588863118">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsNoAutoAddOrRedisTest.scala" timestamp="1459461214522">
         <mark key="[" line="25" column="270" />
         <mark key="]" line="25" column="270" />
         <mark key="." line="25" column="270" />
       </file>
-      <file name="/Scala Console" timestamp="1459367284430">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1459802930744">
-        <mark key="[" line="212" column="68" />
+        <mark key="[" line="214" column="68" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1459193074166">
         <mark key="[" line="288" column="50" />
@@ -35,20 +26,57 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1459787216858">
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactOnlyAutoAddTest.scala" timestamp="1459522128292">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="^" line="23" column="122" />
+        <mark key="." line="30" column="27" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459802982025">
+        <mark key="'" line="770" column="57" />
+        <mark key="[" line="90" column="12" />
+        <mark key="]" line="197" column="35" />
+        <mark key="^" line="197" column="35" />
+        <mark key="." line="197" column="35" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
+        <mark key="[" line="2" column="41" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1459804098696">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+      </file>
+      <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
+        <mark key="[" line="194" column="20" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458923022296">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="57" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459543331480">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1459804548078">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Scala Console" timestamp="1459367284430">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1458756812749">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="61" column="45" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactOnlyAutoAddTest.scala" timestamp="1459522128292">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="27" />
-        <mark key="^" line="23" column="122" />
-        <mark key="." line="30" column="27" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
@@ -62,51 +90,17 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459802982025">
-        <mark key="'" line="770" column="57" />
-        <mark key="[" line="90" column="12" />
-        <mark key="]" line="197" column="35" />
-        <mark key="^" line="197" column="35" />
-        <mark key="." line="197" column="35" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459533476574">
         <mark key="[" line="67" column="33" />
         <mark key="]" line="67" column="33" />
         <mark key="." line="67" column="33" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1459803333567">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1459191748466">
-        <mark key="'" line="124" column="22" />
-        <mark key="[" line="104" column="27" />
-        <mark key="]" line="104" column="27" />
-        <mark key="^" line="124" column="30" />
-        <mark key="." line="104" column="27" />
-      </file>
-      <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
-        <mark key="[" line="194" column="20" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1458923022296">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="57" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" timestamp="1459805015230" />
       <file name="/fragment.java" timestamp="1459802908936">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsRealisticTest.scala" timestamp="1459543331480">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="37" />
       </file>
     </filemarks>
     <jumps>
