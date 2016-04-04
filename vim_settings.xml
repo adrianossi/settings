@@ -32,6 +32,9 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
+      <file name="/a.dummy" timestamp="1459785880189">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1458756812749">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
