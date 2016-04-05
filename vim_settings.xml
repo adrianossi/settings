@@ -29,7 +29,7 @@
         <mark key="^" line="23" column="122" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459880194822">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459881092025">
         <mark key="'" line="128" column="53" />
         <mark key="[" line="714" column="0" />
         <mark key="]" line="715" column="122" />
@@ -108,9 +108,6 @@
         <mark key="." line="104" column="27" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" timestamp="1459805015230" />
-      <file name="/fragment.java" timestamp="1459879555809">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="2266" column="50" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
