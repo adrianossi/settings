@@ -14,10 +14,7 @@
         <mark key="]" line="25" column="270" />
         <mark key="." line="25" column="270" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1459802930744">
-        <mark key="[" line="217" column="68" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1459193074166">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1459867430511">
         <mark key="[" line="288" column="50" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/magma/pom.xml" timestamp="1459440473538">
@@ -32,12 +29,8 @@
         <mark key="^" line="23" column="122" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459806588554">
-        <mark key="'" line="773" column="57" />
-        <mark key="[" line="88" column="61" />
-        <mark key="]" line="91" column="8" />
-        <mark key="^" line="91" column="8" />
-        <mark key="." line="91" column="8" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459867424677">
+        <mark key="'" line="755" column="57" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
@@ -89,6 +82,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/data-service/src/main/java/com/bullhorn/dataservice/DataServiceImpl.java" timestamp="1459868233618" />
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459533476574">
         <mark key="[" line="67" column="33" />
         <mark key="]" line="67" column="33" />
@@ -97,7 +91,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1459191748466">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1459868592171">
         <mark key="'" line="124" column="22" />
         <mark key="[" line="104" column="27" />
         <mark key="]" line="104" column="27" />
@@ -105,9 +99,6 @@
         <mark key="." line="104" column="27" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" timestamp="1459805015230" />
-      <file name="/fragment.java" timestamp="1459802908936">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="251" column="69" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
