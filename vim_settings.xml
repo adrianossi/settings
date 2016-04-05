@@ -29,8 +29,10 @@
         <mark key="^" line="23" column="122" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459877675036">
-        <mark key="'" line="770" column="57" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1459880194822">
+        <mark key="'" line="128" column="53" />
+        <mark key="[" line="714" column="0" />
+        <mark key="]" line="715" column="122" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
@@ -106,27 +108,11 @@
         <mark key="." line="104" column="27" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" timestamp="1459805015230" />
+      <file name="/fragment.java" timestamp="1459879555809">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="863" column="87" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/autoadd/AutoAddContactTest.java" />
-      <jump line="882" column="117" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/autoadd/AutoAddContactTest.java" />
-      <jump line="703" column="87" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/autoadd/AutoAddContactTest.java" />
-      <jump line="1198" column="64" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1264" column="39" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1272" column="58" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1304" column="39" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1393" column="35" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1448" column="31" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1449" column="51" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1456" column="26" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1508" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1522" column="23" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1543" column="39" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1566" column="64" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1573" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1574" column="15" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1878" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2263" column="37" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2266" column="50" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2328" column="63" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2341" column="34" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
@@ -208,6 +194,25 @@
       <jump line="2202" column="54" filename="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/WEB-INF/CustomTags/BullhornPro/User/BHGetUserActivity.cfm" />
       <jump line="85" column="343" filename="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/WEB-INF/CustomTags/BullhornPro/User/BHGetUserActivity.cfm" />
       <jump line="2089" column="191" filename="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/WEB-INF/CustomTags/BullhornPro/User/BHGetUserActivity.cfm" />
+      <jump line="1776" column="54" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1791" column="66" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1799" column="24" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1800" column="51" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1808" column="20" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1824" column="54" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1828" column="54" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1837" column="55" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1841" column="54" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1852" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1896" column="15" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1897" column="52" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="1951" column="71" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2005" column="88" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2006" column="11" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2008" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2012" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="2013" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="128" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -228,13 +233,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBlcnNvbiAhPSBudWxsKSB0b0FwcGVuZCA9IHBlcnNvbi5nZXROYW1lKCkgKyAiIDwiICsgYWRkcmVzc1RvVXNlICsgIj4iOwogICAgICAgICAgICBlbHNlIGlmICghU3RyVXRpbC5zdHJpbmdFbXB0eSh1c2VyLmdldE5hbWUoKSkpIHRvQXBwZW5kID0gdXNlci5nZXROYW1lKCkgKyAiIDwiICsgdXNlci5nZXRFbWFpbEFkZHJlc3MoKSArICI+Ijs=</text>
       </register>
       <register name="-" type="4">
         <text>D</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text encoding="base64">Ijw=</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
@@ -271,9 +276,9 @@
       </register>
     </registers>
     <search>
-      <last-search>message</last-search>
+      <last-search encoding="base64">Ijw=</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern encoding="base64">Ijw=</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -281,8 +286,6 @@
     </search>
     <history>
       <history-search>
-        <entry>docopy</entry>
-        <entry>artifact</entry>
         <entry>Compile</entry>
         <entry>app</entry>
         <entry>web</entry>
@@ -301,6 +304,8 @@
         <entry>User</entry>
         <entry>userMessage</entry>
         <entry>message</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry encoding="base64">Ijw=</entry>
       </history-search>
       <history-cmd>
         <entry>287</entry>
