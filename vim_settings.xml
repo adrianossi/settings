@@ -3,16 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsNoAutoAddOrRedisTest.scala" timestamp="1459461214522">
-        <mark key="[" line="25" column="270" />
-        <mark key="]" line="25" column="270" />
-        <mark key="." line="25" column="270" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1459867430511">
         <mark key="[" line="288" column="50" />
       </file>
-      <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/CachingIncrementerFactory.java" timestamp="1459950672464">
-        <mark key="[" line="13" column="40" />
+      <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/CachingIncrementerFactory.java" timestamp="1459952578771">
+        <mark key="[" line="38" column="64" />
         <mark key="]" line="31" column="68" />
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
@@ -20,10 +15,8 @@
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
         <mark key="[" line="2" column="47" />
       </file>
-      <file name="C:/Repositories/geyser/src/main/resources/batch-default.properties" timestamp="1459944446418">
-        <mark key="[" line="32" column="68" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="C:/Repositories/geyser/src/main/resources/batch-default.properties" timestamp="1459952195795">
+        <mark key="[" line="28" column="0" />
       </file>
       <file name="C:/Repositories/geyser/src/main/resources/META-INF/spring/batch/override/override-ctx.xml" timestamp="1459950262119">
         <mark key="[" line="13" column="57" />
@@ -32,21 +25,15 @@
         <mark key="[" line="732" column="0" />
         <mark key="]" line="733" column="122" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.1.2.RELEASE/spring-jdbc-4.1.2.RELEASE-sources.jar!/org/springframework/jdbc/support/incrementer/AbstractColumnMaxValueIncrementer.java" timestamp="1459946283145" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/3.0.3.RELEASE/spring-batch-core-3.0.3.RELEASE-sources.jar!/org/springframework/batch/core/repository/support/JobRepositoryFactoryBean.java" timestamp="1459949523394" />
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-admin-manager/1.3.1.RELEASE/spring-batch-admin-manager-1.3.1.RELEASE.jar!/org/springframework/batch/admin/service/SimpleJobServiceFactoryBean.class" timestamp="1459949697064" />
       <file name="/Dummy.txt" timestamp="1459943495955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/3.0.3.RELEASE/spring-batch-infrastructure-3.0.3.RELEASE-sources.jar!/org/springframework/batch/item/database/support/DefaultDataFieldMaxValueIncrementerFactory.java" timestamp="1459950295262" />
-      <file name="C:/Repositories/geyser/src/main/resources/pulseDigestJob.properties" timestamp="1459944442490" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.1.2.RELEASE/spring-jdbc-4.1.2.RELEASE-sources.jar!/org/springframework/jdbc/support/incrementer/SqlServerMaxValueIncrementer.java" timestamp="1459950338291" />
       <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/WEB-INF/CustomTags/BullhornPro/User/BHGetUserActivity.cfm" timestamp="1459878469095">
         <mark key="'" line="2089" column="191" />
         <mark key="[" line="96" column="25" />
@@ -60,12 +47,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/data-service/src/main/java/com/bullhorn/dataservice/DataServiceImpl.java" timestamp="1459868233618" />
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1459533476574">
-        <mark key="[" line="67" column="33" />
-        <mark key="]" line="67" column="33" />
-        <mark key="." line="67" column="33" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
@@ -76,8 +57,7 @@
         <mark key="^" line="124" column="30" />
         <mark key="." line="104" column="27" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" timestamp="1459805015230" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.1.2.RELEASE/spring-jdbc-4.1.2.RELEASE-sources.jar!/org/springframework/jdbc/support/incrementer/AbstractIdentityColumnMaxValueIncrementer.java" timestamp="1459950648874" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-admin-manager/1.3.1.RELEASE/spring-batch-admin-manager-1.3.1.RELEASE-sources.jar!/org/springframework/batch/admin/service/SimpleJobServiceFactoryBean.java" timestamp="1459952066212" />
     </filemarks>
     <jumps>
       <jump line="2266" column="50" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
@@ -344,6 +324,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
