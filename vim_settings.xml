@@ -6,10 +6,11 @@
       <file name="/Dummy.txt" timestamp="1459943495955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1459979448986">
-        <mark key="[" line="66" column="8" />
-        <mark key="]" line="66" column="8" />
-        <mark key="." line="66" column="8" />
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1459980824568">
+        <mark key="[" line="71" column="54" />
+        <mark key="]" line="53" column="61" />
+        <mark key="." line="53" column="61" />
+        <mark key="^" line="53" column="61" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsNoAutoAddOrRedisTest.scala" timestamp="1459461214522">
         <mark key="[" line="25" column="270" />
@@ -42,12 +43,12 @@
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" timestamp="1459979134575">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="15" column="8" />
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" timestamp="1459981132940">
+        <mark key="'" line="18" column="24" />
+        <mark key="[" line="26" column="84" />
+        <mark key="]" line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+        <mark key="." line="24" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
@@ -83,10 +84,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2341" column="34" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2342" column="23" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2347" column="50" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2355" column="37" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2358" column="43" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2561" column="31" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2728" column="69" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
@@ -183,6 +180,10 @@
       <jump line="128" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="214" column="35" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/services/caldera/LoginService.groovy" />
       <jump line="29" column="0" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
+      <jump line="21" column="24" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
+      <jump line="23" column="24" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
+      <jump line="15" column="20" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
+      <jump line="18" column="24" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -209,7 +210,7 @@
         <text>carlos</text>
       </register>
       <register name="/" type="4">
-        <text>redir</text>
+        <text>bypassMobile</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
@@ -246,18 +247,16 @@
       </register>
     </registers>
     <search>
-      <last-search>authorize</last-search>
+      <last-search>bypassMobile</last-search>
       <last-offset />
-      <last-pattern>redir</last-pattern>
-      <last-replace>redirect</last-replace>
-      <last-substitute>redir</last-substitute>
+      <last-pattern>bypassMobile</last-pattern>
+      <last-replace>bypass_mobile</last-replace>
+      <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>web</entry>
-        <entry>classes</entry>
         <entry>resourceMana</entry>
         <entry>FAIL</entry>
         <entry>fail</entry>
@@ -276,10 +275,10 @@
         <entry encoding="base64">Ijw=</entry>
         <entry>authorize</entry>
         <entry>redir</entry>
+        <entry>gadget</entry>
+        <entry>bypassMobile</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
-        <entry>q</entry>
         <entry>% s/PersonName()/PersonName(&quot;&quot;,&quot;&quot;)/g</entry>
         <entry encoding="base64">JzwsJz4lIHMvLCAvLFxyL2c=</entry>
         <entry encoding="base64">JzwsJz4lIHMvLCAvLFxyLw==</entry>
@@ -297,6 +296,8 @@
         <entry>W</entry>
         <entry>74</entry>
         <entry encoding="base64">JzwsJz4lcy9yZWRpci9yZWRpcmVjdA==</entry>
+        <entry>% s/gadget/bypassMobile</entry>
+        <entry>% s/bypassMobile/bypass_mobile/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
