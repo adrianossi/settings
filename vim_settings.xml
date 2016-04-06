@@ -11,6 +11,15 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1459867430511">
         <mark key="[" line="288" column="50" />
       </file>
+      <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/CachingIncrementerFactory.java" timestamp="1459948001028">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="31" column="68" />
+        <mark key="." line="31" column="68" />
+        <mark key="^" line="31" column="68" />
+      </file>
+      <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
+        <mark key="[" line="2" column="47" />
+      </file>
       <file name="C:/Repositories/geyser/src/main/resources/batch-default.properties" timestamp="1459944446418">
         <mark key="[" line="32" column="68" />
         <mark key="]" line="32" column="0" />
@@ -198,10 +207,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>setIncrementerColumnName</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>setIncrementerColumnName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Ijw=</text>
@@ -210,31 +219,31 @@
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="4">
-        <text>#</text>
+        <text>setIncrementerColumnName</text>
       </register>
       <register name="2" type="4">
-        <text>#</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text>dataFieldMaxValueIncrementerFactory</text>
       </register>
-      <register name="4" type="4">
-        <text>D</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGVmYXVsdERhdGFGaWVsZE1heFZhbHVlSW5jcmVtZW50ZXJGYWN0b3J5IGRhdGFGaWVsZE1heFZhbHVlSW5jcmVtZW50ZXJGYWN0b3J5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIERhdGFGaWVsZE1heFZhbHVlSW5jcmVtZW50ZXIgaW5jcmVtZW50ZXIgPSB0aGlzLmRhdGFGaWVsZE1heFZhbHVlSW5jcmVtZW50ZXJGYWN0b3J5LmdldEluY3JlbWVudGVyKGRhdGFiYXNlVHlwZSwgaW5jcmVtZW50ZXJOYW1lKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IEBSZXF1aXJlZA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbmNyZW1lbnRlci5zZXQK</text>
       </register>
-      <register name="7" type="4">
-        <text>T</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5kYXRhRmllbGRNYXhWYWx1ZUluY3JlbWVudGVyRmFjdG9yeS5pc1N1cHBvcnRlZEluY3JlbWVudGVyVHlwZShkYXRhYmFzZVR5cGUpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>rc.getProperties().</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
