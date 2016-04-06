@@ -55,7 +55,12 @@
       <file name="/Dummy.txt" timestamp="1459943495955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1459962002985" />
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1459971905708">
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="41" column="36" />
+        <mark key="^" line="41" column="36" />
+        <mark key="." line="41" column="36" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
       </file>
@@ -233,7 +238,7 @@
         <text encoding="base64">ICAgICAgICAvL0luYm91bmQgc2NlbmFyaW8K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>74</text>
       </register>
     </registers>
     <search>
@@ -269,7 +274,6 @@
         <entry>authorize</entry>
       </history-search>
       <history-cmd>
-        <entry>287</entry>
         <entry>222</entry>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
         <entry>q</entry>
@@ -289,6 +293,7 @@
         <entry>134</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>74</entry>
       </history-cmd>
       <history-expr />
       <history-input />
