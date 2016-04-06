@@ -49,17 +49,13 @@
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/services/caldera/LoginService.groovy" timestamp="1459964638163">
+        <mark key="'" line="214" column="35" />
+      </file>
       <file name="/Dummy.txt" timestamp="1459943495955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1459962002985" />
-      <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/WEB-INF/CustomTags/BullhornPro/User/BHGetUserActivity.cfm" timestamp="1459878469095">
-        <mark key="'" line="2089" column="191" />
-        <mark key="[" line="96" column="25" />
-        <mark key="]" line="96" column="25" />
-        <mark key="." line="96" column="25" />
-        <mark key="^" line="96" column="25" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
       </file>
@@ -71,20 +67,13 @@
         <mark key="]" line="67" column="33" />
         <mark key="." line="67" column="33" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" timestamp="1459964397176" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1459868592171">
-        <mark key="'" line="124" column="22" />
-        <mark key="[" line="104" column="27" />
-        <mark key="]" line="104" column="27" />
-        <mark key="^" line="124" column="30" />
-        <mark key="." line="104" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-admin-manager/1.3.1.RELEASE/spring-batch-admin-manager-1.3.1.RELEASE-sources.jar!/org/springframework/batch/admin/service/SimpleJobServiceFactoryBean.java" timestamp="1459952066212" />
     </filemarks>
     <jumps>
-      <jump line="2266" column="50" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2328" column="63" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2341" column="34" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2342" column="23" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
@@ -184,6 +173,7 @@
       <jump line="2012" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2013" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="128" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="214" column="35" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/services/caldera/LoginService.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -210,7 +200,7 @@
         <text>ogger.debug(&quot;Checking tracking ACL&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Ijw=</text>
+        <text>authorize</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
@@ -247,9 +237,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Ijw=</last-search>
+      <last-search>authorize</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Ijw=</last-pattern>
+      <last-pattern>authorize</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -257,7 +247,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Compile</entry>
         <entry>app</entry>
         <entry>web</entry>
         <entry>classes</entry>
@@ -277,6 +266,7 @@
         <entry>message</entry>
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">Ijw=</entry>
+        <entry>authorize</entry>
       </history-search>
       <history-cmd>
         <entry>287</entry>
