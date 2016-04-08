@@ -85,6 +85,7 @@
         <mark key="[" line="47" column="58" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1460042555866" />
+      <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornSTAFFING/Services/UserProfile/UserProfileMessages.cfm" timestamp="1460123841920" />
     </filemarks>
     <jumps>
       <jump line="2728" column="69" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
