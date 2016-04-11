@@ -16,10 +16,12 @@
       <file name="C:/Repositories/geyser/src/main/resources/batch-default.properties" timestamp="1459952195795">
         <mark key="[" line="28" column="0" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/reminder/EmailReminder.java" timestamp="1460406926380" />
       <file name="C:/Repositories/geyser/src/main/resources/META-INF/spring/batch/override/override-ctx.xml" timestamp="1459950262119">
         <mark key="[" line="13" column="57" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/email/EmailSyncTask.java" timestamp="1460402319942" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/email/EmailSyncTask.java" timestamp="1460406901050" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/SchedulerStartup.java" timestamp="1460407088364" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
       </file>
@@ -40,8 +42,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/quartz/routing/RoundRobinAlgorithm.java" timestamp="1460406912827" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email-api/src/main/java/com/bullhorn/email/service/EmailSyncService.java" timestamp="1460396728757" />
       <file name="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/controllers/com/bullhorn/utilities/OauthController.groovy" timestamp="1460130119156" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/reminder/email/JNDISessionCreator.java" timestamp="1460406920539" />
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
       </file>
@@ -63,7 +67,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornSTAFFING/Services/UserProfile/UserProfileMessages.cfm" timestamp="1460123841920" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/reminder/ReminderTask.java" timestamp="1460400976589" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/SchedulerFactory.java" timestamp="1460402600267" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/service/impl/SchedulerServiceImpl.java" timestamp="1460405789318" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/service/impl/SchedulerServiceImpl.java" timestamp="1460406939764" />
     </filemarks>
     <jumps>
       <jump line="323" column="34" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
