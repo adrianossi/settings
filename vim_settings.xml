@@ -45,7 +45,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/quartz/routing/RoundRobinAlgorithm.java" timestamp="1460406912827" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email-api/src/main/java/com/bullhorn/email/service/EmailSyncService.java" timestamp="1460396728757" />
       <file name="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/controllers/com/bullhorn/utilities/OauthController.groovy" timestamp="1460130119156" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/reminder/email/JNDISessionCreator.java" timestamp="1460406920539" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/reminder/email/JNDISessionCreator.java" timestamp="1460408016186" />
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
       </file>
@@ -68,6 +68,9 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/reminder/ReminderTask.java" timestamp="1460400976589" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/SchedulerFactory.java" timestamp="1460402600267" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/service/impl/SchedulerServiceImpl.java" timestamp="1460406939764" />
+      <file name="/fragment.java" timestamp="1460408000497">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="323" column="34" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
