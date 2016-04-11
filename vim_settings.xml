@@ -57,22 +57,15 @@
       <file name="/Dummy.txt" timestamp="1459943495955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1460386122509">
-        <mark key="[" line="71" column="54" />
-        <mark key="]" line="53" column="61" />
-        <mark key="." line="53" column="61" />
-        <mark key="^" line="53" column="61" />
-      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1460395266086" />
       <file name="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/controllers/com/bullhorn/utilities/OauthController.groovy" timestamp="1460130119156" />
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" timestamp="1460130258973">
-        <mark key="'" line="18" column="24" />
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="34" column="77" />
-        <mark key="^" line="34" column="77" />
-        <mark key="." line="34" column="77" />
+        <mark key="]" line="15" column="77" />
+        <mark key="^" line="15" column="77" />
+        <mark key="." line="15" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
@@ -81,6 +74,9 @@
         <mark key="[" line="67" column="33" />
         <mark key="]" line="67" column="33" />
         <mark key="." line="67" column="33" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" timestamp="1460395291310">
+        <mark key="[" line="205" column="41" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
