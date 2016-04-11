@@ -10,6 +10,9 @@
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
         <mark key="[" line="2" column="47" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" timestamp="1460405187633">
+        <mark key="'" line="50" column="72" />
+      </file>
       <file name="C:/Repositories/geyser/src/main/resources/batch-default.properties" timestamp="1459952195795">
         <mark key="[" line="28" column="0" />
       </file>
@@ -17,13 +20,6 @@
         <mark key="[" line="13" column="57" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/email/EmailSyncTask.java" timestamp="1460402319942" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1460042434266">
-        <mark key="'" line="2978" column="67" />
-        <mark key="[" line="372" column="16" />
-        <mark key="]" line="372" column="100" />
-        <mark key="." line="372" column="16" />
-        <mark key="^" line="372" column="15" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
       </file>
@@ -31,12 +27,19 @@
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/services/caldera/LoginService.groovy" timestamp="1460405069292">
+        <mark key="'" line="214" column="35" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email-api/src/main/java/com/bullhorn/email/service/ServiceConstants.java" timestamp="1460401623929" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1460045441245" />
       <file name="/Dummy.txt" timestamp="1459943495955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1460395266086" />
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1460405175571">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email-api/src/main/java/com/bullhorn/email/service/EmailSyncService.java" timestamp="1460396728757" />
       <file name="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/controllers/com/bullhorn/utilities/OauthController.groovy" timestamp="1460130119156" />
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
@@ -60,13 +63,9 @@
       <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornSTAFFING/Services/UserProfile/UserProfileMessages.cfm" timestamp="1460123841920" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/reminder/ReminderTask.java" timestamp="1460400976589" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/SchedulerFactory.java" timestamp="1460402600267" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/service/impl/SchedulerServiceImpl.java" timestamp="1460402607274" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/service/impl/SchedulerServiceImpl.java" timestamp="1460405404787" />
     </filemarks>
     <jumps>
-      <jump line="2728" column="69" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2755" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2761" column="12" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="3191" column="20" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="323" column="34" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="454" column="92" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="457" column="61" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
@@ -163,6 +162,10 @@
       <jump line="18" column="24" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
       <jump line="2211" column="0" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2978" column="67" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="5" column="6" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" />
+      <jump line="2" column="7" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" />
+      <jump line="3" column="27" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" />
+      <jump line="50" column="72" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -182,53 +185,53 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>carlos</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBncmFpbHNBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>carlos</text>
       </register>
       <register name="/" type="4">
-        <text>lowest</text>
+        <text>grails</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiBncmFpbHNBcHBsaWNhdGlvbgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>carlos</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="4">
-        <text>handleMobileLogin(token, restUrl, returnUrl, true)</text>
       </register>
       <register name="7" type="4">
         <text>handleMobileLogin(token, restUrl, returnUrl, true)</text>
       </register>
       <register name="8" type="4">
-        <text>, false)</text>
+        <text>handleMobileLogin(token, restUrl, returnUrl, true)</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aXNHYWRnZXQg</text>
+        <text>, false)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lowest</last-search>
+      <last-search>grails</last-search>
       <last-offset />
-      <last-pattern>lowest</last-pattern>
+      <last-pattern>grails</last-pattern>
       <last-replace>bypass_mobile</last-replace>
       <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
@@ -236,7 +239,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FAIL</entry>
         <entry>fail</entry>
         <entry>package</entry>
         <entry>git</entry>
@@ -256,6 +258,7 @@
         <entry>gadget</entry>
         <entry>bypassMobile</entry>
         <entry>lowest</entry>
+        <entry>grails</entry>
       </history-search>
       <history-cmd>
         <entry>% s/PersonName()/PersonName(&quot;&quot;,&quot;&quot;)/g</entry>
