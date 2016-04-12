@@ -86,8 +86,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" timestamp="1460395291310">
-        <mark key="[" line="205" column="41" />
+      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" timestamp="1460473135464">
+        <mark key="'" line="80" column="8" />
+        <mark key="[" line="119" column="16" />
+        <mark key="]" line="119" column="55" />
+        <mark key="^" line="119" column="15" />
+        <mark key="." line="119" column="16" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
@@ -108,23 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1206" column="20" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="138" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="141" column="55" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="142" column="33" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="343" column="72" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="529" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="300" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="0" column="0" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="428" column="22" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/rest-services/src/main/resources/rest-services-context.xml" />
-      <jump line="141" column="37" filename="C:/Repositories/mitching/lib/bullhorn-email-0.1.jar!/com/bullhorn/email/service/impl/EmailServiceImpl.class" />
-      <jump line="44" column="2" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/mailet/BullhornDelivery.java" />
-      <jump line="278" column="48" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" />
-      <jump line="279" column="49" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" />
-      <jump line="119" column="22" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" />
-      <jump line="20" column="11" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
-      <jump line="19" column="30" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
-      <jump line="31" column="78" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="32" column="52" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="49" column="42" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="57" column="59" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
@@ -208,6 +195,23 @@
       <jump line="980" column="35" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="47" column="11" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email-api/src/main/java/com/bullhorn/email/service/ServiceConstants.java" />
       <jump line="51" column="77" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email-api/src/main/java/com/bullhorn/email/service/ServiceConstants.java" />
+      <jump line="370" column="0" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="112" column="16" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="69" column="65" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="206" column="16" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="296" column="54" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="382" column="54" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="119" column="54" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="207" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="375" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="110" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="198" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="288" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="65" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="170" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="257" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="347" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
+      <jump line="80" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -227,53 +231,53 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>respectMobilePreferences = &quot;REPLACE_ME&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">dXNlIA==</text>
+        <text>grails.server</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>true</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0tPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gT25seSBibGVzc2VkIHdheSB0byB0YWxrIHRvIGxvY2FsIG1hc3RlciBhZmFpawo=</text>
+        <text encoding="base64">ICAgIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gT25seSBibGVzc2VkIHdheSB0byB0YWxrIHRvIGxvY2FsIG1hc3RlciBhZmFpawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBzdW4uZm9udC5Gb250TWFuYWdlci5sb2dnZXI7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBzdW4uZm9udC5Gb250TWFuYWdlci5sb2dnZXI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ID0gbmV3IFNjaGVkdWxlZFRocmVhZFBvb2xFeGVjdXRvcig2NCk=</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">dXNlIA==</last-search>
+      <last-search>grails.server</last-search>
       <last-offset />
-      <last-pattern encoding="base64">dXNlIA==</last-pattern>
+      <last-pattern>grails.server</last-pattern>
       <last-replace>bypass_mobile</last-replace>
       <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
@@ -281,12 +285,6 @@
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
-        <entry>pulseEmail</entry>
-        <entry>pulse</entry>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry>usermessage</entry>
-        <entry>User</entry>
         <entry>userMessage</entry>
         <entry>message</entry>
         <entry encoding="base64">PA==</entry>
@@ -301,13 +299,17 @@
         <entry>dataSourceManager</entry>
         <entry>use</entry>
         <entry encoding="base64">dXNlIA==</entry>
+        <entry>condorClientId</entry>
+        <entry>mobile</entry>
+        <entry>respect</entry>
+        <entry>oauth {</entry>
+        <entry>grails.servier</entry>
+        <entry>grails.server</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4lIHMvLCAvLFxyL2c=</entry>
         <entry encoding="base64">JzwsJz4lIHMvLCAvLFxyLw==</entry>
         <entry encoding="base64">JzwsJz5zLywgLyxcci9n</entry>
         <entry>130</entry>
-        <entry>wq</entry>
         <entry>e</entry>
         <entry>&quot;w</entry>
         <entry>194</entry>
@@ -323,6 +325,8 @@
         <entry>% s/bypassMobile/bypass_mobile/g</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>Wq</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
