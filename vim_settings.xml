@@ -89,7 +89,7 @@
         <mark key="'" line="50" column="72" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/SchedulerStartup.java" timestamp="1460407088364" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1460411293493">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1460497619093">
         <mark key="'" line="980" column="35" />
         <mark key="[" line="372" column="16" />
         <mark key="]" line="372" column="100" />
@@ -120,14 +120,14 @@
       <file name="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/controllers/com/bullhorn/utilities/OauthController.groovy" timestamp="1460130119156" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/reminder/email/JNDISessionCreator.java" timestamp="1460408016186" />
       <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornSTAFFING/Script/Controllers/PulseConfigCtrl.es6" timestamp="1460491164917" />
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1460494309117">
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1460497171567">
         <mark key="[" line="67" column="33" />
         <mark key="]" line="67" column="33" />
         <mark key="." line="67" column="33" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/SchedulerFactory.java" timestamp="1460402600267" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/service/impl/SchedulerServiceImpl.java" timestamp="1460406939764" />
-      <file name="/fragment.java" timestamp="1460408506768">
+      <file name="/fragment.java" timestamp="1460497483110">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
