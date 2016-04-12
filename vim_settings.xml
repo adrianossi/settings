@@ -9,11 +9,17 @@
         <mark key="]" line="67" column="10" />
         <mark key="." line="215" column="0" />
       </file>
+      <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/CachingIncrementerFactory.java" timestamp="1459952578771">
         <mark key="[" line="38" column="64" />
         <mark key="]" line="31" column="68" />
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
+      </file>
+      <file name="/a.dummy" timestamp="1460490924574">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Repositories/geyser/src/main/resources/batch-default.properties" timestamp="1459952195795">
         <mark key="[" line="28" column="0" />
@@ -113,6 +119,7 @@
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/controllers/com/bullhorn/utilities/OauthController.groovy" timestamp="1460130119156" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/reminder/email/JNDISessionCreator.java" timestamp="1460408016186" />
+      <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornSTAFFING/Script/Controllers/PulseConfigCtrl.es6" timestamp="1460491164917" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/SchedulerFactory.java" timestamp="1460402600267" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/service/impl/SchedulerServiceImpl.java" timestamp="1460406939764" />
       <file name="/fragment.java" timestamp="1460408506768">
