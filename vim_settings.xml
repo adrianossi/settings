@@ -28,6 +28,9 @@
       <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" timestamp="1460478561801">
         <mark key="'" line="50" column="72" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
+        <mark key="[" line="29" column="34" />
+      </file>
       <file name="C:/Repositories/geyser/src/main/resources/batch-default.properties" timestamp="1459952195795">
         <mark key="[" line="28" column="0" />
       </file>
@@ -37,7 +40,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/daytona/src/main/java/com/bullhorn/daytona/search/EntitySearcher.java" timestamp="1460568791348">
         <mark key="[" line="78" column="84" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1460497619093">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1460579944411">
         <mark key="'" line="980" column="35" />
         <mark key="[" line="372" column="16" />
         <mark key="]" line="372" column="100" />
@@ -120,7 +123,7 @@
         <mark key="." line="109" column="67" />
         <mark key="^" line="109" column="67" />
       </file>
-      <file name="/fragment.java" timestamp="1460497483110">
+      <file name="/fragment.java" timestamp="1460580205934">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
