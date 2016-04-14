@@ -44,7 +44,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/CorpSettingUtil.java" timestamp="1460645608044">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/CorpSettingUtil.java" timestamp="1460646494242">
         <mark key="[" line="33" column="23" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1459958859165">
@@ -85,6 +85,12 @@
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/common/src/main/java/com/bullhorn/common/util/CorpSettingUtil.java" timestamp="1460646489023">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="43" />
+        <mark key="^" line="33" column="43" />
+        <mark key="." line="33" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
@@ -280,7 +286,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>112</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -332,10 +338,10 @@
         <entry>we</entry>
         <entry>Wq</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>174</entry>
         <entry>34</entry>
         <entry>112</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
