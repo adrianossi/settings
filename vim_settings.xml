@@ -23,7 +23,7 @@
         <mark key="'" line="50" column="72" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
-        <mark key="[" line="34" column="34" />
+        <mark key="[" line="29" column="34" />
       </file>
       <file name="C:/Repositories/geyser/src/main/resources/batch-default.properties" timestamp="1459952195795">
         <mark key="[" line="28" column="0" />
@@ -59,12 +59,6 @@
       <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/services/caldera/LoginService.groovy" timestamp="1460405069292">
         <mark key="'" line="214" column="35" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email-api/src/main/java/com/bullhorn/email/service/ServiceConstants.java" timestamp="1460487451862">
-        <mark key="'" line="51" column="77" />
-        <mark key="[" line="87" column="50" />
-        <mark key="m" line="10" column="41" />
-        <mark key="]" line="87" column="72" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1460484705096">
         <mark key="[" line="55" column="82" />
         <mark key="]" line="55" column="82" />
@@ -92,6 +86,12 @@
         <mark key="^" line="33" column="43" />
         <mark key="." line="33" column="43" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/test/java/com/bullhorn/address/derp.java" timestamp="1460666874026">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
@@ -101,6 +101,7 @@
         <mark key="." line="70" column="4" />
         <mark key="^" line="70" column="4" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1460666776216" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
