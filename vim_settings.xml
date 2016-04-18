@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1461007224348">
-        <mark key="[" line="226" column="40" />
-        <mark key="]" line="227" column="72" />
-        <mark key="^" line="227" column="72" />
-        <mark key="." line="227" column="72" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1461008825395">
+        <mark key="[" line="208" column="73" />
+        <mark key="]" line="208" column="73" />
+        <mark key="^" line="224" column="72" />
+        <mark key="." line="208" column="73" />
       </file>
       <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
         <mark key="[" line="0" column="0" />
@@ -43,11 +43,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/CorpSettingUtil.java" timestamp="1460646813247">
         <mark key="[" line="33" column="23" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1461007315839">
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="53" column="17" />
-        <mark key="^" line="53" column="17" />
-        <mark key="." line="53" column="17" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1461008970067">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
@@ -86,17 +86,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/daytona/src/main/java/com/bullhorn/daytona/service/RefreshServiceManager.java" timestamp="1460567104423">
-        <mark key="'" line="88" column="51" />
-        <mark key="]" line="70" column="4" />
-        <mark key="." line="70" column="4" />
-        <mark key="^" line="70" column="4" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" timestamp="1460666776216" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/target/resource_managed/main/supercluster.properties" timestamp="1461007183928">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/target/resource_managed/main/supercluster.properties" timestamp="1461008275074">
         <mark key="[" line="14" column="20" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1460410410446">
@@ -229,11 +223,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IGluaXQtbWV0aG9kPSJpbml0aWFsaXplIg==</text>
       </register>
       <register name="/" type="4">
         <text>IsCorp</text>
@@ -241,32 +235,32 @@
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="4">
-        <text>y</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>email</text>
+        <text encoding="base64">CiAgICBAUmVxdWlyZWQKICAgIHB1YmxpYyB2b2lkIHNldEVtYWlsVHJhY2tpbmdBQ0xDYWNoZVNpemUoTG9uZyBlbWFpbFRyYWNraW5nQUNMQ2FjaGVTaXplKSB7CiAgICAgICAgdGhpcy5lbWFpbFRyYWNraW5nQUNMQ2FjaGVTaXplID0gZW1haWxUcmFja2luZ0FDTENhY2hlU2l6ZTsKICAgIH0KCiAgICBAUmVxdWlyZWQKICAgIHB1YmxpYyB2b2lkIHNldE1pbnV0ZXNUb0NhY2hlKExvbmcgbWludXRlc1RvQ2FjaGUpIHsKICAgICAgICB0aGlzLm1pbnV0ZXNUb0NhY2hlID0gbWludXRlc1RvQ2FjaGU7CiAgICB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxSZWNpcGllbnRzLmFkZEFsbChlbWFpbC5nZXRCY2NSZWNpcGllbnRzKCkpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGluaXQtbWV0aG9kPSJpbml0aWFsaXplIg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxSZWNpcGllbnRzLmFkZEFsbChlbWFpbC5nZXRDY1JlY2lwaWVudHMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ibWludXRlc1RvQ2FjaGUiIHZhbHVlPSI1Ii8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxSZWNpcGllbnRzLmFkZEFsbChlbWFpbC5nZXRUb1JlY2lwaWVudHMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZW1haWxUcmFja2luZ0FDTENhY2hlU2l6ZSIgdmFsdWU9IjUiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxSZWNpcGllbnRzLmFkZChlbWFpbC5nZXRTZW5kZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZW1haWxUcmFja2luZ0FDTENhY2hlTG9hZGVyIiByZWY9ImVtYWlsVHJhY2tpbmdBQ0xDYWNoZUxvYWRlciIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpc3Q8RW1haWxVc2VyPiBhbGxSZWNpcGllbnRzID0gbmV3IEFycmF5TGlzdDxFbWFpbFVzZXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZW1haWxUcmFja2luZ0FDTENhY2hlU2l6ZSIgdmFsdWU9IjUiLz4K</text>
       </register>
-      <register name="8" type="4">
-        <text>L</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZW1haWxUcmFja2luZ0FDTENhY2hlTG9hZGVyIiByZWY9ImVtYWlsVHJhY2tpbmdBQ0xDYWNoZUxvYWRlciIvPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>getValueAsInteger</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBtaW51dGVzVG9DYWNoZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
