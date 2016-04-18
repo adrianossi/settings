@@ -16,6 +16,9 @@
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
       </file>
+      <file name="/a.dummy" timestamp="1461003958480">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
         <mark key="[" line="2" column="47" />
       </file>
@@ -31,9 +34,9 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/daytona/src/main/java/com/bullhorn/daytona/search/EntitySearcher.java" timestamp="1460568791348">
         <mark key="[" line="2" column="84" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461003103310">
-        <mark key="'" line="1042" column="35" />
-        <mark key="[" line="709" column="8" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461005642909">
+        <mark key="'" line="1039" column="35" />
+        <mark key="[" line="706" column="8" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
