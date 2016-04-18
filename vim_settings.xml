@@ -3,21 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1461007224348">
+        <mark key="[" line="226" column="40" />
+        <mark key="]" line="227" column="72" />
+        <mark key="^" line="227" column="72" />
+        <mark key="." line="227" column="72" />
+      </file>
       <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1460561212575">
-        <mark key="'" line="59" column="27" />
-        <mark key="[" line="288" column="50" />
       </file>
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/CachingIncrementerFactory.java" timestamp="1459952578771">
         <mark key="[" line="38" column="64" />
         <mark key="]" line="31" column="68" />
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
-      </file>
-      <file name="/a.dummy" timestamp="1461003958480">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
         <mark key="[" line="2" column="47" />
@@ -34,7 +33,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/daytona/src/main/java/com/bullhorn/daytona/search/EntitySearcher.java" timestamp="1460568791348">
         <mark key="[" line="2" column="84" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461005642909">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461007138834">
         <mark key="'" line="1039" column="35" />
         <mark key="[" line="706" column="8" />
       </file>
@@ -44,11 +43,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/CorpSettingUtil.java" timestamp="1460646813247">
         <mark key="[" line="33" column="23" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1461002810493">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="41" column="8" />
-        <mark key="^" line="41" column="8" />
-        <mark key="." line="41" column="8" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1461007315839">
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="17" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="17" />
       </file>
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
@@ -59,7 +58,7 @@
         <mark key="." line="55" column="82" />
         <mark key="^" line="55" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1460646637610">
+      <file name="/Dummy.txt" timestamp="1461006755708">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/rest/src/main/java/com/bullhorn/rest/servlet/RestAccessLogger.java" timestamp="1461000318308" />
@@ -97,13 +96,16 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/target/resource_managed/main/supercluster.properties" timestamp="1461007183928">
+        <mark key="[" line="14" column="20" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1460410410446">
         <mark key="[" line="108" column="56" />
         <mark key="]" line="109" column="67" />
         <mark key="." line="109" column="67" />
         <mark key="^" line="109" column="67" />
       </file>
-      <file name="/fragment.java" timestamp="1460581579448">
+      <file name="/fragment.java" timestamp="1461006755700">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -228,10 +230,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getValueAsInteger</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>getValueAsInteger</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>IsCorp</text>
@@ -240,34 +242,34 @@
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="4">
-        <text>getValueAsInteger</text>
+        <text>y</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text>email</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxSZWNpcGllbnRzLmFkZEFsbChlbWFpbC5nZXRCY2NSZWNpcGllbnRzKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxSZWNpcGllbnRzLmFkZEFsbChlbWFpbC5nZXRDY1JlY2lwaWVudHMoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0gT25seSBibGVzc2VkIHdheSB0byB0YWxrIHRvIGxvY2FsIG1hc3RlciBhZmFpawo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxSZWNpcGllbnRzLmFkZEFsbChlbWFpbC5nZXRUb1JlY2lwaWVudHMoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxSZWNpcGllbnRzLmFkZChlbWFpbC5nZXRTZW5kZXIoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBzdW4uZm9udC5Gb250TWFuYWdlci5sb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc3Q8RW1haWxVc2VyPiBhbGxSZWNpcGllbnRzID0gbmV3IEFycmF5TGlzdDxFbWFpbFVzZXI+KCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>L</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getValueAsInteger</text>
       </register>
       <register name=":" type="4">
-        <text>55</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -321,8 +323,8 @@
         <entry>174</entry>
         <entry>34</entry>
         <entry>112</entry>
-        <entry>w</entry>
         <entry>55</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
