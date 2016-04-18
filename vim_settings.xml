@@ -64,6 +64,7 @@
       <file name="/Dummy.txt" timestamp="1460646637610">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/rest/src/main/java/com/bullhorn/rest/servlet/RestAccessLogger.java" timestamp="1461000318308" />
       <file name="C:/Bullhorn/Tools/bh-env/SetUp.py" timestamp="1460488098451">
         <mark key="'" line="820" column="8" />
       </file>
@@ -271,7 +272,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>55</text>
       </register>
     </registers>
     <search>
@@ -307,7 +308,6 @@
         <entry>IsCorp</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry>&quot;w</entry>
         <entry>194</entry>
         <entry>264</entry>
@@ -327,6 +327,7 @@
         <entry>34</entry>
         <entry>112</entry>
         <entry>w</entry>
+        <entry>55</entry>
       </history-cmd>
       <history-expr />
       <history-input />
