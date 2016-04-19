@@ -40,10 +40,10 @@
         <mark key="[" line="33" column="23" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1461084627223">
-        <mark key="[" line="42" column="33" />
-        <mark key="]" line="43" column="0" />
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="41" column="0" />
         <mark key="^" line="36" column="49" />
-        <mark key="." line="43" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
@@ -81,6 +81,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" timestamp="1461089753799">
+        <mark key="'" line="167" column="14" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
@@ -98,14 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="0" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="623" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="816" column="57" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="168" column="17" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/mailet/BullhornDelivery.java" />
-      <jump line="79" column="32" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.7-sources.jar!/sbt/Keys.scala" />
-      <jump line="89" column="4" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
-      <jump line="129" column="86" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
-      <jump line="130" column="62" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="176" column="119" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="12" column="10" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="52" column="9" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
@@ -198,6 +193,14 @@
       <jump line="141" column="25" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="254" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="255" column="28" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="321" column="4" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
+      <jump line="11" column="5" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
+      <jump line="138" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
+      <jump line="143" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
+      <jump line="149" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
+      <jump line="156" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
+      <jump line="161" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
+      <jump line="167" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -224,7 +227,7 @@
         <text encoding="base64">UGVyc29uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>emailTracker</text>
+        <text encoding="base64">IFQg</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
@@ -261,9 +264,9 @@
       </register>
     </registers>
     <search>
-      <last-search>emailTracker</last-search>
+      <last-search encoding="base64">IFQg</last-search>
       <last-offset />
-      <last-pattern>emailTracker</last-pattern>
+      <last-pattern encoding="base64">IFQg</last-pattern>
       <last-replace>bypass_mobile</last-replace>
       <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
@@ -271,8 +274,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gadget</entry>
-        <entry>bypassMobile</entry>
         <entry>lowest</entry>
         <entry>grails</entry>
         <entry>datasourcemana</entry>
@@ -291,6 +292,8 @@
         <entry>addFile</entry>
         <entry>IsCorp</entry>
         <entry>emailTracker</entry>
+        <entry>T</entry>
+        <entry encoding="base64">IFQg</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
