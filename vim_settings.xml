@@ -58,7 +58,12 @@
       <file name="/Dummy.txt" timestamp="1461006755708">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1461093645507" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1461101973926">
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="22" />
+        <mark key="." line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/galender/GalenderServiceImpl.java" timestamp="1460411276920">
         <mark key="[" line="64" column="35" />
         <mark key="]" line="70" column="78" />
@@ -222,11 +227,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIEpPSU4gYnVsbGhvcm4xLkJIX1VzZXIgdSBXSVRIKE5PTE9DSykgT04gdS51c2VydHlwZWlkID0gYWUudXNlcnR5cGVpZCIgKwo=</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGVyc29uIA==</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IFQg</text>
@@ -234,32 +239,32 @@
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIEpPSU4gYnVsbGhvcm4xLkJIX1VzZXIgdSBXSVRIKE5PTE9DSykgT04gdS51c2VydHlwZWlkID0gYWUudXNlcnR5cGVpZCIgKwo=</text>
+      <register name="1" type="4">
+        <text>debug</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>debug</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">ICAgICAgICAiIEpPSU4gYnVsbGhvcm4xLkJIX1VzZXIgdSBXSVRIKE5PTE9DSykgT04gdS51c2VydHlwZWlkID0gYWUudXNlcnR5cGVpZCIgKwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJlbWFpbFRyYWNraW5nQUNMQ2FjaGVMb2FkZXIiPgo=</text>
+        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSJlbWFpbFRyYWNraW5nQUNMQ2FjaGVMb2FkZXIiPgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcm9jZXNzaW5nQ29udGV4dC5nZXRBbGxSZWNpcHMoKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">UGVyc29uIA==</text>
-      </register>
-      <register name="8" type="4">
-        <text>.getAllRecips()</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>323</text>
