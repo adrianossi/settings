@@ -259,7 +259,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>323</text>
       </register>
     </registers>
     <search>
@@ -295,7 +295,6 @@
         <entry encoding="base64">IFQg</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;w</entry>
         <entry>194</entry>
         <entry>264</entry>
         <entry>160</entry>
@@ -315,6 +314,7 @@
         <entry>112</entry>
         <entry>55</entry>
         <entry>w</entry>
+        <entry>323</entry>
       </history-cmd>
       <history-expr />
       <history-input />
