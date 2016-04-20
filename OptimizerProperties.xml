@@ -1,0 +1,22 @@
+<application>
+  <component name="IntelliJOptimizer">
+    <option name="installationGuid" value="MrUoZOB2xUHPtGYBdad5tGotmtEGloy1G9EuYHKItn4=" />
+    <option name="installationTimestamp" value="1461182597634" />
+    <option name="firstBootTime" value="54335414881" />
+    <option name="currentBootTime" value="54335414881" />
+    <option name="isSignedUp" value="true" />
+    <option name="currentlyPerformedActivities">
+      <list>
+        <option value="Memory Parameters" />
+        <option value="Class Verification" />
+        <option value="JRebel Version" />
+      </list>
+    </option>
+    <option name="company" value="bullhorn" />
+    <option name="email" value="jmick@bullhorn.com" />
+    <option name="firstName" value="Jacob" />
+    <option name="lastName" value="Mick" />
+    <option name="phoneNumber" value="6188675309" />
+    <option name="getDevelopersInCompany" value="10+" />
+  </component>
+</application>
