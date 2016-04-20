@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1461094765813">
-        <mark key="[" line="205" column="68" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1461173034391">
+        <mark key="[" line="204" column="73" />
         <mark key="]" line="204" column="0" />
-        <mark key="^" line="221" column="72" />
+        <mark key="^" line="223" column="72" />
         <mark key="." line="204" column="0" />
       </file>
       <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
@@ -35,19 +35,29 @@
         <mark key="[" line="2" column="84" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/jmx/BullhornErrorMailRepository.java" timestamp="1461095474626" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461173419753">
+        <mark key="[" line="705" column="12" />
+        <mark key="]" line="705" column="57" />
+        <mark key="^" line="705" column="57" />
+        <mark key="." line="705" column="57" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/CorpSettingUtil.java" timestamp="1460646813247">
         <mark key="[" line="33" column="23" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1461090835446">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1461173502943">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
       </file>
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
+        <mark key="[" line="2" column="37" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1460484705096">
         <mark key="[" line="55" column="82" />
@@ -227,8 +237,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>debug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>debug</text>
@@ -239,35 +249,35 @@
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="4">
-        <text>debug</text>
-      </register>
-      <register name="2" type="4">
-        <text>debug</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIEpPSU4gYnVsbGhvcm4xLkJIX1VzZXIgdSBXSVRIKE5PTE9DSykgT04gdS51c2VydHlwZWlkID0gYWUudXNlcnR5cGVpZCIgKwo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBAUmVxdWlyZWQKICAgIHB1YmxpYyB2b2lkIHNldERhdGFTb3VyY2VNYW5hZ2VyKERhdGFTb3VyY2VNYW5hZ2VyIGRhdGFTb3VyY2VNYW5hZ2VyKSB7CiAgICAgICAgdGhpcy5kYXRhU291cmNlTWFuYWdlciA9IGRhdGFTb3VyY2VNYW5hZ2VyOwogICAgfQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text>debug</text>
+      </register>
+      <register name="4" type="4">
+        <text>debug</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">ICAgICAgICAiIEpPSU4gYnVsbGhvcm4xLkJIX1VzZXIgdSBXSVRIKE5PTE9DSykgT04gdS51c2VydHlwZWlkID0gYWUudXNlcnR5cGVpZCIgKwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJlbWFpbFRyYWNraW5nQUNMQ2FjaGVMb2FkZXIiPgo=</text>
+        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzaW5nQ29udGV4dC5nZXRBbGxSZWNpcHMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">UGVyc29uIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSJlbWFpbFRyYWNraW5nQUNMQ2FjaGVMb2FkZXIiPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>323</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -321,8 +331,8 @@
         <entry>34</entry>
         <entry>112</entry>
         <entry>55</entry>
-        <entry>w</entry>
         <entry>323</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
