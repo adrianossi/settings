@@ -6,7 +6,6 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1461173034391">
         <mark key="[" line="204" column="73" />
         <mark key="]" line="204" column="0" />
-        <mark key="^" line="223" column="72" />
         <mark key="." line="204" column="0" />
       </file>
       <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
@@ -35,12 +34,7 @@
         <mark key="[" line="2" column="84" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/jmx/BullhornErrorMailRepository.java" timestamp="1461095474626" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461173419753">
-        <mark key="[" line="705" column="12" />
-        <mark key="]" line="705" column="57" />
-        <mark key="^" line="705" column="57" />
-        <mark key="." line="705" column="57" />
-      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461179589112" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
       </file>
