@@ -11,7 +11,6 @@
       <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/mailet/BullhornDelivery.java" timestamp="1461095109607" />
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/CachingIncrementerFactory.java" timestamp="1459952578771">
         <mark key="[" line="38" column="64" />
         <mark key="]" line="31" column="68" />
@@ -33,7 +32,6 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/daytona/src/main/java/com/bullhorn/daytona/search/EntitySearcher.java" timestamp="1460568791348">
         <mark key="[" line="2" column="84" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/james/src/main/java/com/bullhorn/email/james/jmx/BullhornErrorMailRepository.java" timestamp="1461095474626" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
       </file>
@@ -45,6 +43,10 @@
         <mark key="]" line="25" column="37" />
         <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="37" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/target/resource_managed/main/email-services.properties" timestamp="1461184536441">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="47" />
       </file>
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
@@ -94,6 +96,7 @@
       <file name="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" timestamp="1461089753799">
         <mark key="'" line="167" column="14" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBody.java" timestamp="1461185452522" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
@@ -230,8 +233,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>autoAddContact.corpEnabledCacheExpirationMinutes</text>
       </register>
       <register name="-" type="4">
         <text>debug</text>
