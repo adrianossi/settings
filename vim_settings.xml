@@ -17,6 +17,9 @@
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
       </file>
+      <file name="/a.dummy" timestamp="1461273141615">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Repositories/geyser/pom.xml" timestamp="1461253289172">
         <mark key="[" line="232" column="34" />
         <mark key="]" line="232" column="41" />
@@ -68,11 +71,11 @@
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/util/PrivacyUtilTest.java" timestamp="1461271860832">
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="21" column="63" />
-        <mark key="^" line="21" column="63" />
-        <mark key="." line="21" column="63" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/util/PrivacyUtilTest.java" timestamp="1461273317315">
+        <mark key="[" line="38" column="80" />
+        <mark key="]" line="37" column="75" />
+        <mark key="^" line="37" column="75" />
+        <mark key="." line="37" column="75" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
         <mark key="[" line="2" column="37" />
