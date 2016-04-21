@@ -38,6 +38,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/daytona/src/main/java/com/bullhorn/daytona/search/EntitySearcher.java" timestamp="1460568791348">
         <mark key="[" line="2" column="84" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/PrivacyUtil.java" timestamp="1461271849785">
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461250690091">
         <mark key="[" line="381" column="0" />
         <mark key="]" line="381" column="0" />
@@ -62,6 +67,12 @@
       </file>
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/util/PrivacyUtilTest.java" timestamp="1461271860832">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="21" column="63" />
+        <mark key="^" line="21" column="63" />
+        <mark key="." line="21" column="63" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
         <mark key="[" line="2" column="37" />
@@ -127,7 +138,7 @@
         <mark key="." line="109" column="67" />
         <mark key="^" line="109" column="67" />
       </file>
-      <file name="/fragment.java" timestamp="1461254735361">
+      <file name="/fragment.java" timestamp="1461271564615">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -252,10 +263,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>closest.tag.name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>closest.tag.name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IFQg</text>
@@ -264,31 +275,31 @@
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="4">
-        <text>closest.tag.name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>package</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwcml2YWN5VXRpbC5pc0JhZFBlcnNvbihkc0NsaWVudCxzZW5kZXIpKXsK</text>
+      <register name="5" type="4">
+        <text>\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjYTdjMTE2Li4uIEJILTM4OTA1IC0gTnVsbCBoYW5kbGluZwo=</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="7" type="4">
+        <text>\</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBlcnNvbiBzZW5kZXIgPSBzZW5kZXJzLmlzRW1wdHkoKSA/IG51bGwgOiBzZW5kZXJzLml0ZXJhdG9yKCkubmV4dCgpLmdldFBlcnNvbigpOwo=</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="9" type="4">
+        <text>\</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -332,7 +343,6 @@
         <entry>1449</entry>
         <entry>124</entry>
         <entry>134</entry>
-        <entry>W</entry>
         <entry>74</entry>
         <entry encoding="base64">JzwsJz4lcy9yZWRpci9yZWRpcmVjdA==</entry>
         <entry>% s/gadget/bypassMobile</entry>
@@ -346,6 +356,7 @@
         <entry>55</entry>
         <entry>323</entry>
         <entry>39</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
