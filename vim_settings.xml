@@ -17,6 +17,12 @@
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
       </file>
+      <file name="C:/Repositories/geyser/pom.xml" timestamp="1461253289172">
+        <mark key="[" line="232" column="34" />
+        <mark key="]" line="232" column="41" />
+        <mark key="^" line="232" column="41" />
+        <mark key="." line="232" column="41" />
+      </file>
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
         <mark key="[" line="2" column="47" />
       </file>
@@ -68,6 +74,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1461006755708">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Repositories/geyser/src/main/webapp/version.jsp" timestamp="1461253363073">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1461101973926">
         <mark key="[" line="46" column="19" />
@@ -239,11 +251,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>closest.tag.name</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>closest.tag.name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IFQg</text>
@@ -251,32 +263,32 @@
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text>closest.tag.name</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      <register name="2" type="4">
+        <text>package</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwcml2YWN5VXRpbC5pc0JhZFBlcnNvbihkc0NsaWVudCxzZW5kZXIpKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjYTdjMTE2Li4uIEJILTM4OTA1IC0gTnVsbCBoYW5kbGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwcml2YWN5VXRpbC5pc0JhZFBlcnNvbihkc0NsaWVudCxzZW5kZXIpKXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBlcnNvbiBzZW5kZXIgPSBzZW5kZXJzLmlzRW1wdHkoKSA/IG51bGwgOiBzZW5kZXJzLml0ZXJhdG9yKCkubmV4dCgpLmdldFBlcnNvbigpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBjYTdjMTE2Li4uIEJILTM4OTA1IC0gTnVsbCBoYW5kbGluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBlcnNvbiBzZW5kZXIgPSBzZW5kZXJzLmlzRW1wdHkoKSA/IG51bGwgOiBzZW5kZXJzLml0ZXJhdG9yKCkubmV4dCgpLmdldFBlcnNvbigpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBAUmVxdWlyZWQKICAgIHB1YmxpYyB2b2lkIHNldERhdGFTb3VyY2VNYW5hZ2VyKERhdGFTb3VyY2VNYW5hZ2VyIGRhdGFTb3VyY2VNYW5hZ2VyKSB7CiAgICAgICAgdGhpcy5kYXRhU291cmNlTWFuYWdlciA9IGRhdGFTb3VyY2VNYW5hZ2VyOwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
