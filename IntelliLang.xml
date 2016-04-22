@@ -9,5 +9,9 @@
       <display-name>JavaPersistenceQuery.JavaPersistenceQuery (com.bullhorn.dataservice.query)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("JavaPersistenceQuery").withParameters("java.lang.String").definedInClass("com.bullhorn.dataservice.query.JavaPersistenceQuery"))]]></place>
     </injection>
+    <injection language="TSQL" injector-id="java">
+      <display-name>StructuredQuery.setWhere (com.bullhorn.dataservice.query)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setWhere").withParameters("java.lang.String").definedInClass("com.bullhorn.dataservice.query.StructuredQuery"))]]></place>
+    </injection>
   </component>
 </application>
