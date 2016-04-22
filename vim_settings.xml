@@ -123,7 +123,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/target/resource_managed/main/supercluster.properties" timestamp="1461008275074">
         <mark key="[" line="14" column="20" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1461340919559" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1461341779203">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="101" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1460410410446">
         <mark key="[" line="108" column="56" />
         <mark key="]" line="109" column="67" />
@@ -255,7 +259,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;(email = :email + '%' or email2 = :email + '%' or email3 = :email + '%') and enabled = 1 and isDeleted = 0&quot;;</text>
+        <text>(rtrim(email) = :email or rtrim(email2) = :email or rtrim(email3) = :email)&quot; +
+            &quot; and enabled = 1&quot; +
+            &quot; and isDeleted = 0</text>
       </register>
       <register name="-" type="4">
         <text>42</text>
@@ -266,20 +272,22 @@
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>(rtrim(email) = :email or rtrim(email2) = :email or rtrim(email3) = :email)&quot; +
+            &quot; and enabled = 1&quot; +
+            &quot; and isDeleted = 0</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXMuYWRkKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>42</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">c3RhdGljIGZpbmFsIA==</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
@@ -288,10 +296,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>\</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
