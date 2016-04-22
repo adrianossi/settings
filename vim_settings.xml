@@ -17,9 +17,6 @@
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1461273141615">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Repositories/geyser/pom.xml" timestamp="1461253289172">
         <mark key="[" line="232" column="34" />
         <mark key="]" line="232" column="41" />
@@ -52,11 +49,9 @@
         <mark key="[" line="33" column="23" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" timestamp="1461337527774">
-        <mark key="'" line="38" column="21" />
-        <mark key="[" line="49" column="82" />
-        <mark key="]" line="52" column="12" />
-        <mark key="." line="52" column="12" />
-        <mark key="^" line="52" column="12" />
+        <mark key="]" line="59" column="12" />
+        <mark key="." line="59" column="12" />
+        <mark key="^" line="59" column="12" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/target/resource_managed/main/email-services.properties" timestamp="1461184536441">
         <mark key="[" line="68" column="0" />
@@ -128,6 +123,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/target/resource_managed/main/supercluster.properties" timestamp="1461008275074">
         <mark key="[" line="14" column="20" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1461340919559" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1460410410446">
         <mark key="[" line="108" column="56" />
         <mark key="]" line="109" column="67" />
@@ -258,8 +254,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuYWRkKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;(email = :email + '%' or email2 = :email + '%' or email3 = :email + '%') and enabled = 1 and isDeleted = 0&quot;;</text>
       </register>
       <register name="-" type="4">
         <text>42</text>
