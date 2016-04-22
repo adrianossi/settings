@@ -3,19 +3,12 @@
     <option name="installationGuid" value="MrUoZOB2xUHPtGYBdad5tGotmtEGloy1G9EuYHKItn4=" />
     <option name="installationTimestamp" value="1461182597634" />
     <option name="firstBootTime" value="54335414881" />
-    <option name="previousBootTime" value="54335414881" />
-    <option name="currentBootTime" value="16658927480" />
+    <option name="previousBootTime" value="16658927480" />
+    <option name="currentBootTime" value="75298765378" />
     <option name="isOpenOptimizerOnStartup" value="false" />
     <option name="isFirstBoot" value="false" />
     <option name="isSignedUp" value="true" />
     <option name="isJRebelPresentNotificationSent" value="true" />
-    <option name="previouslyPerformedActivities">
-      <list>
-        <option value="Memory Parameters" />
-        <option value="Class Verification" />
-        <option value="JRebel Version" />
-      </list>
-    </option>
     <option name="company" value="bullhorn" />
     <option name="email" value="jmick@bullhorn.com" />
     <option name="firstName" value="Jacob" />
