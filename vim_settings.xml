@@ -47,6 +47,12 @@
         <mark key="[" line="30" column="53" />
         <mark key="]" line="30" column="174" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461600060750">
+        <mark key="[" line="284" column="27" />
+        <mark key="]" line="284" column="27" />
+        <mark key="." line="284" column="27" />
+        <mark key="^" line="284" column="27" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
       </file>
@@ -271,11 +277,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCSC0zODg5NSBmaXggdW5pdCB0ZXN0cwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>gitHash</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IFQg</text>
@@ -283,32 +289,32 @@
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCSC0zODg5NSBmaXggdW5pdCB0ZXN0cwo=</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>request</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="3" type="4">
+        <text>CreateEmailRequest request</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="4" type="4">
+        <text>CreateEmailRequest request</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCSC0zODg5NSBudWxsIGNoZWNrIG9uIHNlbmRlcgo=</text>
+      <register name="5" type="4">
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsUGFydGllcy5hZGQocHJvY2Vzc2luZ0NvbnRleHQuZ2V0U2VuZGVyKCkpOwo=</text>
+      <register name="6" type="4">
+        <text>equest.getEmail().getToRecipients()</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvY2Vzc2luZ0NvbnRleHQuZ2V0U2VuZGVyKCkhPSBudWxsKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlY2lwLmdldEVtYWlsQWRkcmVzcygpICE9IG51bGwpIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
