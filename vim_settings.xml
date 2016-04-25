@@ -47,7 +47,7 @@
         <mark key="[" line="30" column="53" />
         <mark key="]" line="30" column="174" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461601233135">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461604862275">
         <mark key="[" line="279" column="37" />
         <mark key="]" line="280" column="64" />
         <mark key="." line="280" column="64" />
@@ -278,7 +278,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQogICAgcHVibGljIHN0YXRpYyA8VD4gVCBjbG9uZU9iamVjdChUIG9iaikgdGhyb3dzIENsYXNzTm90Rm91bmRFeGNlcHRpb24sIElPRXhjZXB0aW9uIHsKICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYnl0ZUFycmF5T3V0cHV0U3RyZWFtID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwogICAgICAgIE9iamVjdE91dHB1dFN0cmVhbSBvYmplY3RPdXRwdXRTdHJlYW0gPSBuZXcgT2JqZWN0T3V0cHV0U3RyZWFtKGJ5dGVBcnJheU91dHB1dFN0cmVhbSk7CiAgICAgICAgb2JqZWN0T3V0cHV0U3RyZWFtLndyaXRlT2JqZWN0KG9iaik7CiAgICAgICAgb2JqZWN0T3V0cHV0U3RyZWFtLmZsdXNoKCk7CiAgICAgICAgb2JqZWN0T3V0cHV0U3RyZWFtLmNsb3NlKCk7CiAgICAgICAgYnl0ZUFycmF5T3V0cHV0U3RyZWFtLmNsb3NlKCk7CiAgICAgICAgYnl0ZVtdIGJ5dGVEYXRhID0gYnl0ZUFycmF5T3V0cHV0U3RyZWFtLnRvQnl0ZUFycmF5KCk7CiAgICAgICAgQnl0ZUFycmF5SW5wdXRTdHJlYW0gYnl0ZUFycmF5SW5wdXRTdHJlYW0gPSBuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oYnl0ZURhdGEpOwogICAgICAgIHJldHVybiAoVCkgbmV3IE9iamVjdElucHV0U3RyZWFtKGJ5dGVBcnJheUlucHV0U3RyZWFtKS5yZWFkT2JqZWN0KCk7CiAgICB9</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
