@@ -114,6 +114,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/client/ClientContactData.java" timestamp="1461789572637" />
       <file name="C:/Repositories/geyser/pom.xml" timestamp="1461701447185" />
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
         <mark key="[" line="2" column="47" />
@@ -122,9 +123,9 @@
         <mark key="[" line="29" column="34" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/StdDeps.scala" timestamp="1461777350637" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461787489838">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461789437098">
         <mark key="'" line="695" column="17" />
-        <mark key="[" line="747" column="0" />
+        <mark key="[" line="748" column="108" />
         <mark key="]" line="747" column="0" />
         <mark key="." line="747" column="0" />
         <mark key="^" line="741" column="45" />
