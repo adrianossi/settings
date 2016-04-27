@@ -9,6 +9,10 @@
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/PrivacyUtil.java" timestamp="1461768239351">
+        <mark key="[" line="30" column="53" />
+        <mark key="]" line="30" column="174" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src/main/resources/supercluster.properties.template" timestamp="1461610562719">
         <mark key="[" line="17" column="64" />
         <mark key="]" line="17" column="65" />
@@ -22,6 +26,7 @@
         <mark key="." line="55" column="82" />
         <mark key="^" line="55" column="82" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/cache/DbNamePrivacyEnabled.java" timestamp="1461767947745" />
       <file name="C:/Repositories/geyser/src/main/webapp/version.jsp" timestamp="1461701498676">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="65" />
