@@ -70,6 +70,7 @@
         <mark key="^" line="33" column="43" />
         <mark key="." line="33" column="43" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/data-event/src/main/java/com/bullhorn/dataevent/DataEventServiceImpl.java" timestamp="1461770255616" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupUserByEmail.java" timestamp="1461341779203">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="101" />
@@ -82,7 +83,8 @@
         <mark key="^" line="109" column="67" />
       </file>
       <file name="C:/Repositories/geyser/pom.xml" timestamp="1461701447185" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461682271904">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461770212589">
+        <mark key="'" line="695" column="17" />
         <mark key="[" line="279" column="37" />
         <mark key="]" line="280" column="64" />
         <mark key="." line="280" column="64" />
@@ -129,9 +131,6 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoUpdateContact.java" timestamp="1461682313036" />
     </filemarks>
     <jumps>
-      <jump line="24" column="71" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
-      <jump line="73" column="31" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
-      <jump line="74" column="77" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="79" column="38" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="82" column="42" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
       <jump line="0" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
@@ -229,6 +228,9 @@
       <jump line="38" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" />
       <jump line="0" column="56" filename="/fragment.java" />
       <jump line="44" column="49" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
+      <jump line="407" column="25" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="645" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="695" column="17" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -255,7 +257,7 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>Git</text>
+        <text>fire</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
@@ -292,9 +294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Git</last-search>
+      <last-search>fire</last-search>
       <last-offset />
-      <last-pattern>Git</last-pattern>
+      <last-pattern>fire</last-pattern>
       <last-replace>bypass_mobile</last-replace>
       <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
@@ -302,7 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grails</entry>
         <entry>datasourcemana</entry>
         <entry>dataSourceManager</entry>
         <entry>use</entry>
@@ -322,6 +323,7 @@
         <entry>T</entry>
         <entry encoding="base64">IFQg</entry>
         <entry>Git</entry>
+        <entry>fire</entry>
       </history-search>
       <history-cmd>
         <entry>264</entry>
