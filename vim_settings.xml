@@ -114,7 +114,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/client/ClientContactData.java" timestamp="1461789572637" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/client/ClientContactData.java" timestamp="1461790373634" />
       <file name="C:/Repositories/geyser/pom.xml" timestamp="1461701447185" />
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
         <mark key="[" line="2" column="47" />
@@ -123,12 +123,12 @@
         <mark key="[" line="29" column="34" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/StdDeps.scala" timestamp="1461777350637" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461789437098">
-        <mark key="'" line="695" column="17" />
-        <mark key="[" line="748" column="108" />
-        <mark key="]" line="747" column="0" />
-        <mark key="." line="747" column="0" />
-        <mark key="^" line="741" column="45" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461790632931">
+        <mark key="'" line="430" column="16" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="746" column="17" />
       </file>
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/Version.java" timestamp="1461695887090">
         <mark key="[" line="21" column="31" />
@@ -177,7 +177,6 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoUpdateContact.java" timestamp="1461682313036" />
     </filemarks>
     <jumps>
-      <jump line="79" column="38" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="82" column="42" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
       <jump line="0" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
       <jump line="64" column="20" filename="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" />
@@ -277,6 +276,7 @@
       <jump line="407" column="25" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="645" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="695" column="17" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="430" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -297,52 +297,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVtYWlsQ3JlYXRlRXhjZXB0aW9uKGV4KTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5idWxsaG9ybi5lbnRpdHkudXNlci5wdWxzZS5Vc2VyUHVsc2VDYWxsTG9nOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>OutBadPeople</text>
+        <text encoding="base64">RXhlY3V0aW9uRXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>fire</text>
+        <text>UserCall</text>
       </register>
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVtYWlsQ3JlYXRlRXhjZXB0aW9uKGV4KTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5idWxsaG9ybi5lbnRpdHkudXNlci5wdWxzZS5Vc2VyUHVsc2VDYWxsTG9nOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>OutBadPeople</text>
+        <text encoding="base64">RXhlY3V0aW9uRXhjZXB0aW9uIA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">TGlzdDw=</text>
+        <text>/</text>
       </register>
-      <register name="4" type="4">
-        <text>h</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVtYWlsQ3JlYXRlRXhjZXB0aW9uKGV4KTsK</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text>OutBadPeople</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">TGlzdDw=</text>
+      </register>
+      <register name="7" type="4">
+        <text>h</text>
+      </register>
+      <register name="8" type="4">
+        <text />
+      </register>
+      <register name="9" type="4">
         <text>${git.tags}</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvc2VydmxldD4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmxldC1jbGFzcz5jb20uYnVsbGhvcm4uZ2V5c2VyLlZlcnNpb248L3NlcnZsZXQtY2xhc3M+Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmxldC1uYW1lPlZlcnNpb248L3NlcnZsZXQtbmFtZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fire</last-search>
+      <last-search>UserCall</last-search>
       <last-offset />
-      <last-pattern>fire</last-pattern>
+      <last-pattern>UserCall</last-pattern>
       <last-replace>bypass_mobile</last-replace>
       <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
@@ -350,9 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>datasourcemana</entry>
-        <entry>dataSourceManager</entry>
-        <entry>use</entry>
         <entry encoding="base64">dXNlIA==</entry>
         <entry>condorClientId</entry>
         <entry>mobile</entry>
@@ -370,6 +367,9 @@
         <entry encoding="base64">IFQg</entry>
         <entry>Git</entry>
         <entry>fire</entry>
+        <entry>execution</entry>
+        <entry>ExecutionException</entry>
+        <entry>UserCall</entry>
       </history-search>
       <history-cmd>
         <entry>264</entry>
