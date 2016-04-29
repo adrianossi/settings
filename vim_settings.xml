@@ -12,6 +12,9 @@
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="68" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/fastfind/FastFindQueryParser.java" timestamp="1461959258032">
+        <mark key="'" line="29" column="71" />
+      </file>
       <file name="C:/Repositories/geyser/src/main/resources/META-INF/spring/batch/override/override-ctx.xml" timestamp="1461250043951">
         <mark key="[" line="13" column="57" />
       </file>
@@ -53,10 +56,6 @@
         <mark key="^" line="8" column="65" />
         <mark key="." line="8" column="65" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" timestamp="1461701375946">
-        <mark key="'" line="44" column="49" />
-        <mark key="[" line="31" column="47" />
-      </file>
       <file name="C:/Repositories/geyser/src/main/webapp/WEB-INF/web.xml" timestamp="1461702470821">
         <mark key="[" line="50" column="29" />
         <mark key="]" line="50" column="32" />
@@ -91,11 +90,14 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" timestamp="1461089753799">
+        <mark key="'" line="167" column="14" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/data-event/src/main/java/com/bullhorn/dataevent/DataEventServiceImpl.java" timestamp="1461770255616" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/StrUtil.java" timestamp="1461959107493" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/StrUtil.java" timestamp="1461959121225" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1460410410446">
         <mark key="[" line="108" column="56" />
         <mark key="]" line="109" column="67" />
@@ -129,7 +131,7 @@
         <mark key="." line="23" column="37" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupDatabaseByEmail.java" timestamp="1461682084033" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupDatabaseByEmail.java" timestamp="1461959597541" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/util/PrivacyUtilTest.java" timestamp="1461339376762">
         <mark key="[" line="50" column="12" />
         <mark key="]" line="51" column="95" />
@@ -167,7 +169,6 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoUpdateContact.java" timestamp="1461682313036" />
     </filemarks>
     <jumps>
-      <jump line="82" column="42" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
       <jump line="0" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
       <jump line="64" column="20" filename="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/MagmaForEmail.java" />
       <jump line="77" column="28" filename="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/WEB-INF/CustomTags/BullhornPro/User/BHGetUserActivity.cfm" />
@@ -267,6 +268,7 @@
       <jump line="645" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="695" column="17" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="430" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="29" column="71" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/fastfind/FastFindQueryParser.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
