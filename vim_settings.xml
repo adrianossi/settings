@@ -6,12 +6,6 @@
       <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/CachingIncrementerFactory.java" timestamp="1461249945846">
-        <mark key="[" line="38" column="64" />
-        <mark key="]" line="31" column="68" />
-        <mark key="." line="31" column="68" />
-        <mark key="^" line="31" column="68" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/fastfind/FastFindQueryParser.java" timestamp="1461959258032">
         <mark key="'" line="29" column="71" />
       </file>
@@ -21,7 +15,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/daytona/src/main/java/com/bullhorn/daytona/search/EntitySearcher.java" timestamp="1460568791348">
         <mark key="[" line="2" column="84" />
       </file>
-      <file name="C:/Repositories/pulse_mobile/app/pages/call/call.html" timestamp="1462202388205" />
+      <file name="C:/Repositories/pulse_mobile/app/pages/call/call.html" timestamp="1462203132139" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/PrivacyUtil.java" timestamp="1461959069189">
         <mark key="[" line="95" column="45" />
         <mark key="]" line="95" column="45" />
@@ -34,23 +28,16 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/CorpSettingUtil.java" timestamp="1460646813247">
         <mark key="[" line="33" column="23" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src/main/resources/supercluster.properties.template" timestamp="1461610562719">
-        <mark key="[" line="17" column="64" />
-        <mark key="]" line="17" column="65" />
-        <mark key="^" line="17" column="65" />
-        <mark key="." line="17" column="65" />
+      <file name="C:/Repositories/pulse_mobile/app/pages/call/call.js" timestamp="1462203180883">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="29" />
+        <mark key="^" line="33" column="29" />
+        <mark key="." line="33" column="29" />
       </file>
-      <file name="C:/Repositories/pulse_mobile/app/pages/call/call.js" timestamp="1462202365101" />
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/track/EmailTrackerTest.java" timestamp="1461682061984" />
-      <file name="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/LoginController.groovy" timestamp="1460484705096">
-        <mark key="[" line="55" column="82" />
-        <mark key="]" line="55" column="82" />
-        <mark key="." line="55" column="82" />
-        <mark key="^" line="55" column="82" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/cache/DbNamePrivacyEnabled.java" timestamp="1461767947745" />
       <file name="C:/Repositories/geyser/src/main/webapp/version.jsp" timestamp="1461701498676">
         <mark key="[" line="8" column="8" />
@@ -58,32 +45,14 @@
         <mark key="^" line="8" column="65" />
         <mark key="." line="8" column="65" />
       </file>
-      <file name="C:/Repositories/geyser/src/main/webapp/WEB-INF/web.xml" timestamp="1461702470821">
-        <mark key="[" line="50" column="29" />
-        <mark key="]" line="50" column="32" />
-        <mark key="^" line="50" column="32" />
-        <mark key="." line="50" column="32" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/EmailDuplicateChecker.java" timestamp="1461682290498">
         <mark key="[" line="46" column="19" />
         <mark key="]" line="46" column="22" />
         <mark key="." line="46" column="22" />
         <mark key="^" line="46" column="22" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/galender/GalenderServiceImpl.java" timestamp="1460411276920">
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="70" column="78" />
-        <mark key="^" line="70" column="78" />
-        <mark key="." line="70" column="78" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
         <mark key="[" line="29" column="28" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/common/src/main/java/com/bullhorn/common/util/CorpSettingUtil.java" timestamp="1460646489023">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="43" />
-        <mark key="^" line="33" column="43" />
-        <mark key="." line="33" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
@@ -96,17 +65,12 @@
         <mark key="[" line="47" column="58" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/StrUtil.java" timestamp="1461959121225" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1460410410446">
-        <mark key="[" line="108" column="56" />
-        <mark key="]" line="109" column="67" />
-        <mark key="." line="109" column="67" />
-        <mark key="^" line="109" column="67" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/client/ClientContactData.java" timestamp="1461790373634" />
       <file name="C:/Repositories/geyser/pom.xml" timestamp="1461701447185" />
+      <file name="C:/Repositories/pulse_mobile/app/pages/pulse/feed/feed.js" timestamp="1462203172583" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/user/pulse/UserPulseCallLogConsts.java" timestamp="1461853416383" />
       <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
         <mark key="[" line="2" column="47" />
@@ -123,19 +87,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="746" column="17" />
       </file>
-      <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/Version.java" timestamp="1461695887090">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="23" column="37" />
-        <mark key="." line="23" column="37" />
-        <mark key="^" line="23" column="37" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupDatabaseByEmail.java" timestamp="1461959597541" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/util/PrivacyUtilTest.java" timestamp="1461339376762">
-        <mark key="[" line="50" column="12" />
-        <mark key="]" line="51" column="95" />
-        <mark key="^" line="51" column="95" />
-        <mark key="." line="51" column="95" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
         <mark key="[" line="2" column="37" />
       </file>
@@ -150,19 +102,7 @@
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/user/pulse/UserPulseCallLogData.java" timestamp="1461853402040" />
       <file name="C:/Repositories/geyser/src/main/webapp/derp.jsp" timestamp="1461696406862" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/test/java/com/bullhorn/address/derp.java" timestamp="1460666874026">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBody.java" timestamp="1461682108933" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/target/resource_managed/main/supercluster.properties" timestamp="1461610476225">
-        <mark key="[" line="15" column="64" />
-        <mark key="]" line="15" column="65" />
-        <mark key="^" line="15" column="65" />
-        <mark key="." line="15" column="65" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/lead/LeadData.java" timestamp="1461853653704" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoUpdateContact.java" timestamp="1461682313036" />
     </filemarks>
