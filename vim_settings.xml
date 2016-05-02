@@ -9,18 +9,32 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/fastfind/FastFindQueryParser.java" timestamp="1461959258032">
         <mark key="'" line="29" column="71" />
       </file>
+      <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
+        <mark key="[" line="2" column="47" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
+        <mark key="[" line="29" column="34" />
+      </file>
       <file name="C:/Repositories/geyser/src/main/resources/META-INF/spring/batch/override/override-ctx.xml" timestamp="1461250043951">
         <mark key="[" line="13" column="57" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/daytona/src/main/java/com/bullhorn/daytona/search/EntitySearcher.java" timestamp="1460568791348">
         <mark key="[" line="2" column="84" />
       </file>
-      <file name="C:/Repositories/pulse_mobile/app/pages/call/call.html" timestamp="1462203132139" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/PrivacyUtil.java" timestamp="1461959069189">
-        <mark key="[" line="95" column="45" />
-        <mark key="]" line="95" column="45" />
-        <mark key="." line="95" column="45" />
-        <mark key="^" line="95" column="20" />
+      <file name="C:/Repositories/pulse_mobile/app/pages/call/call.html" timestamp="1462205983427">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/CallLogServiceImpl.java" timestamp="1462206363175">
+        <mark key="[" line="73" column="5" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461790632931">
+        <mark key="'" line="430" column="16" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="746" column="17" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
@@ -28,17 +42,27 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/CorpSettingUtil.java" timestamp="1460646813247">
         <mark key="[" line="33" column="23" />
       </file>
-      <file name="C:/Repositories/pulse_mobile/app/pages/call/call.js" timestamp="1462203180883">
+      <file name="C:/Repositories/pulse_mobile/app/pages/call/call.js" timestamp="1462205467317">
         <mark key="[" line="33" column="21" />
-        <mark key="]" line="33" column="29" />
+        <mark key="]" line="33" column="21" />
         <mark key="^" line="33" column="29" />
-        <mark key="." line="33" column="29" />
+        <mark key="." line="33" column="21" />
       </file>
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/test/java/com/bullhorn/email/track/EmailTrackerTest.java" timestamp="1461682061984" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/cache/DbNamePrivacyEnabled.java" timestamp="1461767947745" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
+        <mark key="[" line="2" column="37" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1461701402229">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+        <mark key="^" line="5" column="71" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1461006755708">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Repositories/geyser/src/main/webapp/version.jsp" timestamp="1461701498676">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="65" />
@@ -60,51 +84,12 @@
       <file name="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" timestamp="1461089753799">
         <mark key="'" line="167" column="14" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/data-event/src/main/java/com/bullhorn/dataevent/DataEventServiceImpl.java" timestamp="1461770255616" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/util/StrUtil.java" timestamp="1461959121225" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/client/ClientContactData.java" timestamp="1461790373634" />
-      <file name="C:/Repositories/geyser/pom.xml" timestamp="1461701447185" />
-      <file name="C:/Repositories/pulse_mobile/app/pages/pulse/feed/feed.js" timestamp="1462203172583" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/user/pulse/UserPulseCallLogConsts.java" timestamp="1461853416383" />
-      <file name="C:/Repositories/geyser/src/main/java/com/bullhorn/geyser/util/SqlServerCachingIncrementerFactory.java" timestamp="1459947179983">
-        <mark key="[" line="2" column="47" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
-        <mark key="[" line="29" column="34" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/StdDeps.scala" timestamp="1461777350637" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/entity/EntityRepositoryImpl.java" timestamp="1461854086655" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1461790632931">
-        <mark key="'" line="430" column="16" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="746" column="17" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/LookupDatabaseByEmail.java" timestamp="1461959597541" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
-        <mark key="[" line="2" column="37" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/project/GitVersion.scala" timestamp="1461701402229">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="71" />
-        <mark key="." line="5" column="71" />
-        <mark key="^" line="5" column="71" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1461006755708">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/user/pulse/UserPulseCallLogData.java" timestamp="1461853402040" />
-      <file name="C:/Repositories/geyser/src/main/webapp/derp.jsp" timestamp="1461696406862" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBody.java" timestamp="1461682108933" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/entity/src/main/java/com/bullhorn/entity/lead/LeadData.java" timestamp="1461853653704" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoUpdateContact.java" timestamp="1461682313036" />
     </filemarks>
     <jumps>
       <jump line="0" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/PulseConstants.java" />
@@ -227,10 +212,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5idWxsaG9ybi5lbnRpdHkudXNlci5wdWxzZS5Vc2VyUHVsc2VDYWxsTG9nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RXhlY3V0aW9uRXhjZXB0aW9uIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>UserCall</text>
@@ -239,31 +224,31 @@
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5idWxsaG9ybi5lbnRpdHkudXNlci5wdWxzZS5Vc2VyUHVsc2VDYWxsTG9nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">RXhlY3V0aW9uRXhjZXB0aW9uIA==</text>
+        <text encoding="base64">CQkgIDxsaT4KCQkgIAk8aSBjbGFzcz0iYmhpLWluYm91bmQtY2FsbCBsb2dpY29uIGluYm91bmQiPjwvaT4KCQkgIAk8ZGl2IGNsYXNzPSJ0aXRsZSI+S3lsZSBNdXJyYXk8L2Rpdj4KCQkgIAk8ZGl2IGNsYXNzPSJjb3JwIj5CdWxsaG9ybjwvZGl2PgoJCSAgPC9saT4KCQkgIDxsaT4KCQkgIAk8aSBjbGFzcz0iYmhpLWluYm91bmQtY2FsbCBsb2dpY29uIGluYm91bmQiPjwvaT4KCQkgIAk8ZGl2IGNsYXNzPSJ0aXRsZSI+S3lsZSBNdXJyYXk8L2Rpdj4KCQkgIAk8ZGl2IGNsYXNzPSJjb3JwIj5CdWxsaG9ybjwvZGl2PgoJCSAgPC9saT4KCQkgIDxsaT4KCQkgIAk8aSBjbGFzcz0iYmhpLW91dGJvdW5kLWNhbGwgbG9naWNvbiBvdXRib3VuZCI+PC9pPgoJCSAgCTxkaXYgY2xhc3M9InRpdGxlIj5LeWxlIE11cnJheTwvZGl2PgoJCSAgCTxkaXYgY2xhc3M9ImNvcnAiPkJ1bGxob3JuPC9kaXY+CgkJICA8L2xpPgoJCSAgPGxpPgoJCSAgCTxpIGNsYXNzPSJiaGktaW5ib3VuZC1jYWxsIGxvZ2ljb24gaW5ib3VuZCI+PC9pPgoJCSAgCTxkaXYgY2xhc3M9InRpdGxlIj5LeWxlIE11cnJheTwvZGl2PgoJCSAgCTxkaXYgY2xhc3M9ImNvcnAiPkJ1bGxob3JuPC9kaXY+CgkJICA8L2xpPgoJCSAgPGxpPgoJCSAgCTxpIGNsYXNzPSJiaGktbWlzc2VkLWNhbGwgbG9naWNvbiBtaXNzZWQiPjwvaT4KCQkgIAk8ZGl2IGNsYXNzPSJ0aXRsZSI+S3lsZSBNdXJyYXk8L2Rpdj4KCQkgIAk8ZGl2IGNsYXNzPSJjb3JwIj5CdWxsaG9ybjwvZGl2PgoJCSAgPC9saT4KCQkgIDxsaT4KCQkgIAk8aSBjbGFzcz0iYmhpLWluYm91bmQtY2FsbCBsb2dpY29uIGluYm91bmQiPjwvaT4KCQkgIAk8ZGl2IGNsYXNzPSJ0aXRsZSI+S3lsZSBNdXJyYXk8L2Rpdj4KCQkgIAk8ZGl2IGNsYXNzPSJjb3JwIj5CdWxsaG9ybjwvZGl2PgoJCSAgPC9saT4KCQkgIDxsaT4KCQkgIAk8aSBjbGFzcz0iYmhpLWluYm91bmQtY2FsbCBsb2dpY29uIGluYm91bmQiPjwvaT4KCQkgIAk8ZGl2IGNsYXNzPSJ0aXRsZSI+S3lsZSBNdXJyYXk8L2Rpdj4KCQkgIAk8ZGl2IGNsYXNzPSJjb3JwIj5CdWxsaG9ybjwvZGl2PgoJCSAgPC9saT4KCQkgIDxsaT4KCQkgIAk8aSBjbGFzcz0iYmhpLWluYm91bmQtY2FsbCBsb2dpY29uIGluYm91bmQiPjwvaT4KCQkgIAk8ZGl2IGNsYXNzPSJ0aXRsZSI+S3lsZSBNdXJyYXk8L2Rpdj4KCQkgIAk8ZGl2IGNsYXNzPSJjb3JwIj5CdWxsaG9ybjwvZGl2PgoJCSAgPC9saT4KCQkgIDxsaSAqbmdJZj0iY2FsbENvdW50ID49IDIwIiBjbGFzcz0iZm9vdG1lc3NhZ2UiPgoJCSAgCU9ubHkgeW91ciBsYXN0IDIwIGNvbnRhY3RzIGFyZSBzaG93bgoJCSAgPC9saT4=</text>
       </register>
       <register name="3" type="4">
         <text>/</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVtYWlsQ3JlYXRlRXhjZXB0aW9uKGV4KTsK</text>
+      <register name="4" type="4">
+        <text>services</text>
       </register>
-      <register name="5" type="4">
-        <text>OutBadPeople</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5idWxsaG9ybi5lbnRpdHkudXNlci5wdWxzZS5Vc2VyUHVsc2VDYWxsTG9nOwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">TGlzdDw=</text>
+        <text encoding="base64">RXhlY3V0aW9uRXhjZXB0aW9uIA==</text>
       </register>
       <register name="7" type="4">
-        <text>h</text>
+        <text>/</text>
       </register>
-      <register name="8" type="4">
-        <text />
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVtYWlsQ3JlYXRlRXhjZXB0aW9uKGV4KTsK</text>
       </register>
       <register name="9" type="4">
-        <text>${git.tags}</text>
+        <text>OutBadPeople</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
