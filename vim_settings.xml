@@ -85,7 +85,7 @@
         <mark key="^" line="10" column="64" />
         <mark key="." line="10" column="64" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462224532893">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462286506535">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="98" column="67" />
         <mark key="." line="98" column="67" />
@@ -98,7 +98,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462224561995">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462287368182">
         <mark key="[" line="49" column="32" />
         <mark key="]" line="19" column="46" />
         <mark key="^" line="19" column="46" />
@@ -129,6 +129,7 @@
       <file name="/Dummy.txt" timestamp="1462213685600">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/target/resource_managed/main/supercluster.properties" timestamp="1462286476766" />
       <file name="/a.regexp" timestamp="1462215422642">
         <mark key="[" line="0" column="0" />
       </file>
