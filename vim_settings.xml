@@ -28,11 +28,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462311529366">
-        <mark key="[" line="101" column="91" />
-        <mark key="]" line="96" column="25" />
-        <mark key="^" line="96" column="25" />
-        <mark key="." line="96" column="25" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462312500014">
+        <mark key="[" line="77" column="42" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="76" column="64" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="C:/Repositories/geyser/src/main/resources/META-INF/spring/batch/override/override-ctx.xml" timestamp="1461250043951">
         <mark key="[" line="13" column="57" />
@@ -111,6 +111,12 @@
       <file name="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" timestamp="1461089753799">
         <mark key="'" line="167" column="14" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/CorporationSettingDao.java" timestamp="1462312423746">
+        <mark key="[" line="61" column="5" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="/a.txt" timestamp="1462215430237">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,10 +126,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462286506535">
-        <mark key="[" line="97" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1462213685615">
+      <file name="/fragment.java" timestamp="1462312000739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/Integer.java" timestamp="1462311372669">
@@ -251,11 +254,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0Pg==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>publicAPIUserTypeID</text>
@@ -263,32 +266,32 @@
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0Pg==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0Pg==</text>
+        <text encoding="base64">CgogICAgcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIElOU1RBTkNFU19CWV9TVVBFUkNMVVNURVJJRCA9ICJTRUxFQ1QgZGIubmFtZSBGUk9NIHN5cy5kYXRhYmFzZXMgZGIiICsKICAgICAgICAiICBKT0lOIEJVTExIT1JOMS5CSF9EYXRhYmFzZUluc3RhbmNlIGRiSW5zdCIgKwogICAgICAgICIgICAgT04gZGJJbnN0Lm5hbWUgPSBkYi5uYW1lIiArCiAgICAgICAgIiAgICBBTkQgZGJJbnN0LmVuYWJsZWQgPSAxIiArCiAgICAgICAgIiAgICBBTkQgZGJJbnN0LmRhdGFiYXNlQ2x1c3RlcklEID4gMiIgKwogICAgICAgICIgSk9JTiBCVUxMSE9STjEuQkhfRGF0YWJhc2VDbHVzdGVyIGRiQ2x1c3QiICsKICAgICAgICAiICAgIE9OIGRiSW5zdC5kYXRhYmFzZUNsdXN0ZXJJRCA9IGRiQ2x1c3QuZGF0YWJhc2VDbHVzdGVySUQiICsKICAgICAgICAiICAgIEFORCBkYkNsdXN0LnF1ZXVlQ2x1c3RlcklEID0gPyIgKwogICAgICAgICIgICAgV0hFUkUgZGIuZGF0YWJhc2VfaWQgPiA0IiArCiAgICAgICAgIiAgICBBTkQgZGIubmFtZSBMSUtFICdCVUxMSE9STlswLTldJSciICsKICAgICAgICAiICAgIEFORCBkYi5pc19yZWFkX29ubHkgPSAwIiArCiAgICAgICAgIiAgICBBTkQgZGIuc3RhdGVfZGVzYyA9ICdPTkxJTkUnIjsK</text>
       </register>
       <register name="4" type="4">
-        <text>NumberFormatException</text>
+        <text>:</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgTVVMVElQTEVfQ09SUFNfT05fSU5TVEFOQ0UgPSAiU2VsZWN0IENvdW50KERpc3RpbmN0IGNvcnBvcmF0aW9uSUQpIiArCiAgICAgICAgIiBGcm9tIEJ1bGxob3JuMS5CaF9Db3Jwb3JhdGlvblNldHRpbmciOwoKICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBERUxFVElPTl9FTkFCTEVEID0gICJzZWxlY3QgZW5hYmxlbWVudC5jb3Jwb3JhdGlvbklELCByZXRlbnRpb25UaW1lLnNldHRpbmdWYWx1ZSBhcyByZXRlbnRpb25Nb250aCIgKwogICAgICAgICIgZnJvbSBidWxsaG9ybjEuYmhfY29ycG9yYXRpb25zZXR0aW5nIGVuYWJsZU1lbnQiICsKICAgICAgICAiIGpvaW4gYnVsbGhvcm4xLmJoX2NvcnBvcmF0aW9uc2V0dGluZyByZXRlbnRpb25UaW1lIG9uIGVuYWJsZW1lbnQuY29ycG9yYXRpb25JRCA9IHJldGVudGlvblRpbWUuY29ycG9yYXRpb25JRCIgKwogICAgICAgICIgd2hlcmUgZW5hYmxlTWVudC5zZXR0aW5nTmFtZSA9ICdlbWFpbERlbGV0aW9uRW5hYmxlZCciICsKICAgICAgICAiIGFuZCBMT1dFUihlbmFibGVNZW50LnNldHRpbmdWYWx1ZSkgPSAndHJ1ZSciICsKICAgICAgICAiIGFuZCByZXRlbnRpb25UaW1lLnNldHRpbmdOYW1lID0gJ2VtYWlsRGVsZXRpb25SZXRlbnRpb25Nb250aCciOwoKICAgIHByaXZhdGUgT3B0aW9uYWw8SW50ZWdlcj4gZ2V0RGVsZXRpb25TZXR0aW5nKFN0cmluZyBpbnN0YW5jZU5hbWUpIHsKICAgICAgICBTaW1wbGVKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlID0gZGF0YVNvdXJjZU1hbmFnZXIuZ2V0RGF0YVNvdXJjZShpbnN0YW5jZU5hbWUpLmdldFNpbXBsZUpkYmNUZW1wbGF0ZSgpOwogICAgICAgIEludGVnZXIgY29ycG9yYXRpb25zT25Bbkluc3RhbmNlID0gamRiY1RlbXBsYXRlLnF1ZXJ5Rm9ySW50KE1VTFRJUExFX0NPUlBTX09OX0lOU1RBTkNFKTsKICAgICAgICBpZiAoY29ycG9yYXRpb25zT25Bbkluc3RhbmNlICE9IDEpIHsKICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmFic2VudCgpOwogICAgICAgIH0KICAgICAgICBMaXN0PE9wdGlvbmFsPEludGVnZXI+PiBkZWxldGlvbkVuYWJsZWRDb3Jwb3JhdGlvbnMgPSBqZGJjVGVtcGxhdGUucXVlcnkoREVMRVRJT05fRU5BQkxFRCwgbmV3IFBhcmFtZXRlcml6ZWRSb3dNYXBwZXI8T3B0aW9uYWw8SW50ZWdlcj4+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIE9wdGlvbmFsPEludGVnZXI+IG1hcFJvdyhSZXN1bHRTZXQgcnMsIGludCByb3dOdW0pIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgU3RyaW5nIHJldGVudGlvbk1vbnRoID0gcnMuZ2V0U3RyaW5nKCJyZXRlbnRpb25Nb250aCIpOwogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YoSW50ZWdlci5wYXJzZUludChyZXRlbnRpb25Nb250aCkpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBwYXJzZSBjb3Jwb3JhdGlvbiBzZXR0aW5nIGZvciBlbWFpbCBkZWxldGlvbiIpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBPcHRpb25hbC5hYnNlbnQoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIGlmIChkZWxldGlvbkVuYWJsZWRDb3Jwb3JhdGlvbnMuc2l6ZSgpICE9IDEpIHsKICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmFic2VudCgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBkZWxldGlvbkVuYWJsZWRDb3Jwb3JhdGlvbnMuZ2V0KDApOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>\</text>
+        <text>settingDao</text>
       </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text>instanceLookup</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>isDeletionEnabled</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
