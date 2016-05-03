@@ -53,12 +53,12 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="107" column="18" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornAdmin/Forms/EditCorporation.cfm" timestamp="1462302630850">
+      <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornAdmin/Forms/EditCorporation.cfm" timestamp="1462305128860">
         <mark key="'" line="987" column="41" />
-        <mark key="[" line="1002" column="106" />
-        <mark key="]" line="1002" column="106" />
-        <mark key="^" line="1002" column="106" />
-        <mark key="." line="1002" column="106" />
+        <mark key="[" line="460" column="31" />
+        <mark key="]" line="460" column="57" />
+        <mark key="^" line="460" column="57" />
+        <mark key="." line="460" column="57" />
       </file>
       <file name="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1462219574150">
         <mark key="'" line="1245" column="34" />
@@ -193,11 +193,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>emailPrivacyEnabled</text>
       </register>
       <register name="-" type="4">
-        <text>Iif(isDefined</text>
+        <text>emailPrivacyEnabled</text>
       </register>
       <register name="/" type="4">
         <text>publicAPIUserTypeID</text>
@@ -205,32 +205,32 @@
       <register name="0" type="4">
         <text>EmailFactory emailFactory = new GmailEmailFactory(&quot;ci@bullhorn.mygbiz.com&quot;);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>emailPrivacyEnabled</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvcnBvcmF0aW9uSWQ9IiNjb3Jwb3JhdGlvbklEIyI+Cg==</text>
+      <register name="2" type="4">
+        <text>qimailPrivacyEnabled</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlPSIjcHVibGljQVBJVXNlclR5cGVJRCMiCg==</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNldHRpbmc9InB1YmxpY0FQSVVzZXJUeXBlSUQiCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGFzb3VyY2U9IiNjbGllbnQuZGF0YVNvdXJjZSMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvcnBvcmF0aW9uSWQ9IiNjb3Jwb3JhdGlvbklEIyI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGFiYXNlSW5zdGFuY2U9IiNjbGllbnQuZGF0YWJhc2VJbnN0YW5jZSMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlPSIjcHVibGljQVBJVXNlclR5cGVJRCMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPENGTU9EVUxFIG5hbWU9IiNhcHBsaWNhdGlvbi5iYXNlVGFnRGlyIy5Ub29scy5CSFVwZGF0ZUNvcnBvcmF0aW9uU2V0dGluZyIK</text>
+        <text encoding="base64">ICAgICAgICAgIHNldHRpbmc9InB1YmxpY0FQSVVzZXJUeXBlSUQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPENGU0VUIHB1YmxpY0FQSVVzZXJUeXBlSUQgPSBWYWwoZm9ybS5wdWJsaWNBUElVc2VyVHlwZUlEKT4K</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGFzb3VyY2U9IiNjbGllbnQuZGF0YVNvdXJjZSMiCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Iif(isDefined</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRhdGFiYXNlSW5zdGFuY2U9IiNjbGllbnQuZGF0YWJhc2VJbnN0YW5jZSMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
