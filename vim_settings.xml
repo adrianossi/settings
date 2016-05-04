@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/MessageRecipientDeletor.java" timestamp="1462385095577">
-        <mark key="[" line="6" column="25" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/MessageRecipientDeletor.java" timestamp="1462388541283">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="21" column="5" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="12" />
       </file>
       <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1462387730348">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Repositories/geyser/src/main/resources/META-INF/spring/batch/override/override-ctx.xml" timestamp="1461250043951">
@@ -58,23 +64,23 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462386178276">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="112" column="69" />
-        <mark key="^" line="112" column="69" />
-        <mark key="." line="112" column="69" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462388288406">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="8" />
+        <mark key="^" line="111" column="7" />
+        <mark key="." line="111" column="8" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/UserMessagePager.java" timestamp="1462386492361">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="16" column="82" />
-        <mark key="." line="17" column="34" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/UserMessagePager.java" timestamp="1462388211786">
+        <mark key="[" line="22" column="85" />
+        <mark key="]" line="22" column="85" />
+        <mark key="^" line="22" column="85" />
+        <mark key="." line="22" column="85" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/UserMessageDeletor.java" timestamp="1462386480799">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/UserMessageDeletor.java" timestamp="1462388560256">
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornAdmin/Update/UpdCorporations.cfm" timestamp="1462303578656">
         <mark key="'" line="1468" column="41" />
@@ -88,11 +94,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462386460215">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="97" column="19" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462388218476">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="96" column="19" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletion.java" timestamp="1462223825723">
         <mark key="[" line="9" column="26" />
@@ -114,8 +120,11 @@
         <mark key="^" line="97" column="50" />
         <mark key="." line="97" column="50" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/NotesDeletor.java" timestamp="1462385970985">
-        <mark key="[" line="6" column="25" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/NotesDeletor.java" timestamp="1462388551672">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
         <mark key="[" line="2" column="37" />
@@ -258,10 +267,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0YUV2ZW50U2VydmljZSBkYXRhRXZlbnRTZXJ2aWNlOwogICAgcHJpdmF0ZSBEYXRhU291cmNlTWFuYWdlckltcGwgZGF0YVNvdXJjZU1hbmFnZXI7CgogICAgQFJlcXVpcmVkCiAgICBwdWJsaWMgdm9pZCBzZXREYXRhRXZlbnRTZXJ2aWNlKERhdGFFdmVudFNlcnZpY2UgZGF0YUV2ZW50U2VydmljZSkgewogICAgICAgIHRoaXMuZGF0YUV2ZW50U2VydmljZSA9IGRhdGFFdmVudFNlcnZpY2U7CiAgICB9CgogICAgQFJlcXVpcmVkCiAgICBwdWJsaWMgdm9pZCBzZXREYXRhU291cmNlTWFuYWdlcihEYXRhU291cmNlTWFuYWdlckltcGwgZGF0YVNvdXJjZU1hbmFnZXIpIHsKICAgICAgICB0aGlzLmRhdGFTb3VyY2VNYW5hZ2VyID0gZGF0YVNvdXJjZU1hbmFnZXI7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>, String instanceName,</text>
       </register>
       <register name="/" type="4">
         <text>publicAPIUserTypeID</text>
@@ -269,32 +278,32 @@
       <register name="0" type="4">
         <text>logger.error(&quot;Deletion failed for reason &quot;, e);</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZU5hbWUsCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>, String instanceName,</text>
+      </register>
+      <register name="3" type="4">
+        <text>null</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">TWVzc2FnZVJlY2lwaWVudERlbGV0b3Ig</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlmIHN1Y2Nlc3NmdWwgZGVsZXRlIHVzZXIgbWVzc2FnZSB0YWJsZSByb3dzCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC5nZXQoKSBhbmQgY2hlY2sgZm9yIGVycm9ycwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFzeW5jIGx1Y2VuZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="8" type="4">
+        <text encoding="base64">TWVzc2FnZVJlY2lwaWVudERlbGV0b3Ig</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlmIHN1Y2Nlc3NmdWwgZGVsZXRlIHVzZXIgbWVzc2FnZSB0YWJsZSByb3dzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
