@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/UserMessagePager.java" timestamp="1462381811064">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1462224431997">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="67" column="11" />
@@ -28,11 +34,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462380674400">
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="65" column="56" />
-        <mark key="." line="80" column="0" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462381226575">
+        <mark key="[" line="73" column="16" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="70" column="56" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="C:/Repositories/geyser/src/main/resources/META-INF/spring/batch/override/override-ctx.xml" timestamp="1461250043951">
         <mark key="[" line="13" column="57" />
@@ -126,7 +132,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1462312000739">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462381797855">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="96" column="67" />
+        <mark key="^" line="96" column="67" />
+        <mark key="." line="96" column="67" />
+      </file>
+      <file name="/fragment.java" timestamp="1462381711526">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/Integer.java" timestamp="1462311372669">
