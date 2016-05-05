@@ -77,10 +77,7 @@
         <mark key="^" line="17" column="25" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/EmailDeletionService.java" timestamp="1462476879563">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="90" column="40" />
-        <mark key="." line="37" column="0" />
+        <mark key="^" line="121" column="40" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462391086866">
         <mark key="[" line="91" column="91" />
@@ -294,7 +291,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>17</text>
       </register>
     </registers>
     <search>
@@ -330,8 +327,6 @@
         <entry>note</entry>
       </history-search>
       <history-cmd>
-        <entry>160</entry>
-        <entry>1449</entry>
         <entry>124</entry>
         <entry>134</entry>
         <entry>74</entry>
@@ -350,6 +345,8 @@
         <entry>wq</entry>
         <entry>&quot;w</entry>
         <entry>w</entry>
+        <entry>80</entry>
+        <entry>17</entry>
       </history-cmd>
       <history-expr />
       <history-input />
