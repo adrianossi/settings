@@ -20,7 +20,7 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1462462158291">
+      <file name="/a.dummy" timestamp="1462474558967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/SafeEmailFactory.java" timestamp="1462391272661">
@@ -52,10 +52,10 @@
         <mark key="^" line="33" column="29" />
         <mark key="." line="33" column="21" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/AsyncMessageDeletor.java" timestamp="1462473759102">
-        <mark key="[" line="64" column="70" />
-        <mark key="]" line="64" column="70" />
-        <mark key="." line="64" column="70" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/AsyncMessageDeletor.java" timestamp="1462474705072">
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="4" />
         <mark key="^" line="64" column="70" />
       </file>
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
@@ -153,11 +153,11 @@
         <mark key="^" line="97" column="50" />
         <mark key="." line="97" column="50" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/NotesDeletor.java" timestamp="1462473818514">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="33" column="133" />
-        <mark key="." line="17" column="0" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/NotesDeletor.java" timestamp="1462474871741">
+        <mark key="[" line="27" column="57" />
+        <mark key="]" line="27" column="68" />
+        <mark key="^" line="27" column="68" />
+        <mark key="." line="27" column="68" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
         <mark key="[" line="2" column="37" />
@@ -167,9 +167,6 @@
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/DeletionSetting.java" timestamp="1462383007827">
         <mark key="[" line="3" column="74" />
-      </file>
-      <file name="/fragment.java" timestamp="1462462243573">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -292,11 +289,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>latestDate</text>
       </register>
       <register name="-" type="4">
-        <text>noteIds</text>
+        <text>latestDate</text>
       </register>
       <register name="/" type="4">
         <text>Derby</text>
@@ -304,32 +301,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhyZWFkUG9vbC5nZXRFeGVjdXRvclNlcnZpY2UoKQogICAgICAgICAgICAuc3VibWl0KG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBTaW1wbGVKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlID0gZGF0YVNvdXJjZU1hbmFnZXIuZ2V0RGF0YVNvdXJjZShpbnN0YW5jZU5hbWUpLmdldFNpbXBsZUpkYmNUZW1wbGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIEludGVnZXIgbWF4aW11bVZhbHVlID0gQ29sbGVjdGlvbnMubWF4KGRlbGV0YWJsZU1lc3NhZ2VzKTsKICAgICAgICAgICAgICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKENMSUVOVENPUlBPUkFUSU9OX0RFTEVURSwgbWF4aW11bVZhbHVlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>latestDate</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIGFuZCBkYXRlQWRkZWQgPD0gPyI7Cg==</text>
+      <register name="2" type="4">
+        <text>latestDate</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIHdoZXJlIEFjdGlvbiA9ICdFbWFpbCciICsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBOT1RFX0lEUyA9ICJTRUxFQ1QgdXNlckNvbW1lbnRJRCBmcm9tIEJ1bGxob3JuMS5CaF9Vc2VyQ29tbWVudCIgKwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YobWF4RGF0ZSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>noteIds</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZGF0ZUFkZGVkIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmFic2VudCgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWF4RGF0ZSA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VibWl0Rm9yRGVsZXRpb24oY29ycG9yYXRpb25JRCwgaW5zdGFuY2VOYW1lLCBNRVNTQUdFUkVDSVBJRU5UX0RFTEVURSwgZGVsZXRhYmxlTWVzc2FnZXMsIERFTEVUSU9OX0lORElDRVMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
