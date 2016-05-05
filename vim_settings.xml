@@ -126,11 +126,11 @@
         <mark key="." line="27" column="68" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/test/java/com/bullhorn/scheduler/emaildeletion/CorporationSettingDaoTest.java" timestamp="1462478462526" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/test/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationEmailDeletorTest.java" timestamp="1462480513416">
-        <mark key="[" line="8" column="101" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="46" />
-        <mark key="^" line="12" column="46" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/test/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationEmailDeletorTest.java" timestamp="1462482134199">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
       </file>
     </filemarks>
     <jumps>
