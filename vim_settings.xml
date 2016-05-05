@@ -61,6 +61,13 @@
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornAdmin/Forms/EditCorporation.cfm" timestamp="1462305128860">
+        <mark key="'" line="987" column="41" />
+        <mark key="[" line="460" column="31" />
+        <mark key="]" line="460" column="57" />
+        <mark key="^" line="460" column="57" />
+        <mark key="." line="460" column="57" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/JdbcOperations.java" timestamp="1462469190853" />
       <file name="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/StatementCreatorUtils.java" timestamp="1462469290951" />
       <file name="C:/Bullhorn/Tools/bh-env/email-processing-load-tests/src/test/scala/autoadd/AutoAddContactsDedupeTest.scala" timestamp="1459368749462">
@@ -84,17 +91,17 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462459707205">
-        <mark key="[" line="126" column="95" />
-        <mark key="]" line="126" column="118" />
-        <mark key="^" line="126" column="118" />
-        <mark key="." line="126" column="118" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462476889234">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="112" column="61" />
+        <mark key="." line="126" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationEmailDeletor.java" timestamp="1462462467613">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="16" column="31" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationEmailDeletor.java" timestamp="1462476773188">
+        <mark key="[" line="9" column="85" />
+        <mark key="]" line="9" column="86" />
         <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
+        <mark key="." line="9" column="86" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/UserMessagePager.java" timestamp="1462461050985">
         <mark key="[" line="24" column="80" />
@@ -117,11 +124,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/EmailDeletionService.java" timestamp="1462461067119">
-        <mark key="[" line="90" column="28" />
-        <mark key="]" line="90" column="40" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/EmailDeletionService.java" timestamp="1462476879563">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
         <mark key="^" line="90" column="40" />
-        <mark key="." line="90" column="40" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462391086866">
         <mark key="[" line="91" column="91" />
@@ -142,6 +149,13 @@
         <mark key="^" line="36" column="54" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/CallLogServiceImpl.java" timestamp="1462385956049" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1462477397000">
+        <mark key="'" line="521" column="63" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="746" column="17" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/DeletionExecutor.java" timestamp="1462391722161">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -170,14 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1837" column="55" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1841" column="54" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1852" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1896" column="15" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1897" column="52" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="1951" column="71" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2005" column="88" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2006" column="11" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2008" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2012" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="2013" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
@@ -270,6 +276,14 @@
       <jump line="1446" column="9" filename="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornAdmin/Update/UpdCorporations.cfm" />
       <jump line="1461" column="0" filename="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornAdmin/Update/UpdCorporations.cfm" />
       <jump line="1468" column="41" filename="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/BullhornAdmin/Update/UpdCorporations.cfm" />
+      <jump line="305" column="30" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="374" column="25" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="375" column="22" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="419" column="18" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="421" column="42" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="473" column="37" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="474" column="36" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="521" column="63" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -289,53 +303,53 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>latestDate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZGF0YVNvdXJjZU1hbmFnZXIiIHJlZj0iZGF0YVNvdXJjZU1hbmFnZXIiLz4K</text>
       </register>
       <register name="-" type="4">
         <text>latestDate</text>
       </register>
       <register name="/" type="4">
-        <text>Derby</text>
+        <text>note</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhyZWFkUG9vbC5nZXRFeGVjdXRvclNlcnZpY2UoKQogICAgICAgICAgICAuc3VibWl0KG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBTaW1wbGVKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlID0gZGF0YVNvdXJjZU1hbmFnZXIuZ2V0RGF0YVNvdXJjZShpbnN0YW5jZU5hbWUpLmdldFNpbXBsZUpkYmNUZW1wbGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIEludGVnZXIgbWF4aW11bVZhbHVlID0gQ29sbGVjdGlvbnMubWF4KGRlbGV0YWJsZU1lc3NhZ2VzKTsKICAgICAgICAgICAgICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKENMSUVOVENPUlBPUkFUSU9OX0RFTEVURSwgbWF4aW11bVZhbHVlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7</text>
       </register>
-      <register name="1" type="4">
-        <text>latestDate</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZGF0YVNvdXJjZU1hbmFnZXIiIHJlZj0iZGF0YVNvdXJjZU1hbmFnZXIiLz4K</text>
       </register>
-      <register name="2" type="4">
-        <text>latestDate</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZGF0YUV2ZW50U2VydmljZSIgcmVmPSJkYXRhRXZlbnRTZXJ2aWNlIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YobWF4RGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFTb3VyY2VNYW5hZ2VyID0gZGF0YVNvdXJjZU1hbmFnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmFic2VudCgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldERhdGFTb3VyY2VNYW5hZ2VyKERhdGFTb3VyY2VNYW5hZ2VyIGRhdGFTb3VyY2VNYW5hZ2VyKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWF4RGF0ZSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Derby</last-search>
+      <last-search>note</last-search>
       <last-offset />
-      <last-pattern>Derby</last-pattern>
+      <last-pattern>note</last-pattern>
       <last-replace>bypass_mobile</last-replace>
       <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
@@ -343,9 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IsCorp</entry>
-        <entry>emailTracker</entry>
-        <entry>T</entry>
         <entry encoding="base64">IFQg</entry>
         <entry>Git</entry>
         <entry>fire</entry>
@@ -363,6 +374,9 @@
         <entry>publicAPIUserTypeID</entry>
         <entry>:w</entry>
         <entry>Derby</entry>
+        <entry>userSetting</entry>
+        <entry>user</entry>
+        <entry>note</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
