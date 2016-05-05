@@ -6,11 +6,10 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/MessageDeletor.java" timestamp="1462397850606">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/MessageRecipientDeletor.java" timestamp="1462460680078">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="14" />
-        <mark key="." line="37" column="14" />
-        <mark key="^" line="37" column="14" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/MessageRecipientDeletor.java" timestamp="1462463534351">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
         <mark key="[" line="0" column="0" />
@@ -52,10 +51,11 @@
         <mark key="^" line="33" column="29" />
         <mark key="." line="33" column="21" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/AsyncMessageDeletor.java" timestamp="1462462410992">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/AsyncMessageDeletor.java" timestamp="1462463660005">
+        <mark key="[" line="44" column="39" />
+        <mark key="]" line="64" column="36" />
+        <mark key="." line="64" column="36" />
+        <mark key="^" line="64" column="36" />
       </file>
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
