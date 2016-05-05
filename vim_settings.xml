@@ -61,11 +61,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/CorporationSettingDao.java" timestamp="1462384734941">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/CorporationSettingDao.java" timestamp="1462458304840">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
         <mark key="^" line="22" column="12" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/a.txt" timestamp="1462215430237">
         <mark key="[" line="0" column="0" />
@@ -127,7 +127,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="36" column="54" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/CallLogServiceImpl.java" timestamp="1462385956049" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/DeletionExecutor.java" timestamp="1462391722161">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -286,8 +285,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>MESSAGERECIPIENT_DELETE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>MESSAGERECIPIENT_DELETE</text>
@@ -298,32 +297,32 @@
       <register name="0" type="4">
         <text>logger.error(&quot;Deletion failed for reason &quot;, e);</text>
       </register>
-      <register name="1" type="4">
-        <text>MESSAGERECIPIENT_DELETE</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>messageRecipient</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBPcHRpb25hbC5hYnNlbnQoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">TUVTU0FHRVJFQ0lQSUVOVF9ERUxFVEUg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvcnBvcmF0aW9uc09uQW5JbnN0YW5jZSAhPSAxKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBjb3Jwb3JhdGlvbnNPbkFuSW5zdGFuY2UgPSBqZGJjVGVtcGxhdGUucXVlcnlGb3JJbnQoTVVMVElQTEVfQ09SUFNfT05fSU5TVEFOQ0UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTGlzdHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>max</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAiIEZST00gQnVsbGhvcm4xLkJoX0NvcnBvcmF0aW9uU2V0dGluZyI7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBNVUxUSVBMRV9DT1JQU19PTl9JTlNUQU5DRSA9ICJTRUxFQ1QgQ291bnQoRElTVElOQ1QgY29ycG9yYXRpb25JRCkiICsK</text>
       </register>
       <register name="8" type="4">
-        <text>Lists</text>
+        <text>MESSAGERECIPIENT_DELETE</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>messageRecipient</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
