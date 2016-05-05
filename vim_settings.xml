@@ -76,11 +76,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462391734811">
-        <mark key="[" line="123" column="8" />
-        <mark key="]" line="123" column="62" />
-        <mark key="^" line="123" column="7" />
-        <mark key="." line="123" column="8" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462459707205">
+        <mark key="[" line="126" column="95" />
+        <mark key="]" line="126" column="118" />
+        <mark key="^" line="126" column="118" />
+        <mark key="." line="126" column="118" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationEmailDeletor.java" timestamp="1462397681792">
         <mark key="[" line="35" column="88" />
@@ -109,11 +109,11 @@
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/EmailDeletionService.java" timestamp="1462397988187">
-        <mark key="[" line="94" column="60" />
-        <mark key="]" line="100" column="64" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/EmailDeletionService.java" timestamp="1462459743014">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
         <mark key="^" line="100" column="64" />
-        <mark key="." line="100" column="64" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462391086866">
         <mark key="[" line="91" column="91" />
@@ -286,7 +286,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBzeW5jIGdldCBlbmFibGVkIGNvcnAgaWRzIGFuZCBjb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>MESSAGERECIPIENT_DELETE</text>
@@ -298,31 +298,31 @@
         <text>logger.error(&quot;Deletion failed for reason &quot;, e);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBzeW5jIGdldCBlbmFibGVkIGNvcnAgaWRzIGFuZCBjb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBPcHRpb25hbC5hYnNlbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvcnBvcmF0aW9uc09uQW5JbnN0YW5jZSAhPSAxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBPcHRpb25hbC5hYnNlbnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBjb3Jwb3JhdGlvbnNPbkFuSW5zdGFuY2UgPSBqZGJjVGVtcGxhdGUucXVlcnlGb3JJbnQoTVVMVElQTEVfQ09SUFNfT05fSU5TVEFOQ0UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvcnBvcmF0aW9uc09uQW5JbnN0YW5jZSAhPSAxKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBjb3Jwb3JhdGlvbnNPbkFuSW5zdGFuY2UgPSBqZGJjVGVtcGxhdGUucXVlcnlGb3JJbnQoTVVMVElQTEVfQ09SUFNfT05fSU5TVEFOQ0UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIEZST00gQnVsbGhvcm4xLkJoX0NvcnBvcmF0aW9uU2V0dGluZyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAiIEZST00gQnVsbGhvcm4xLkJoX0NvcnBvcmF0aW9uU2V0dGluZyI7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBNVUxUSVBMRV9DT1JQU19PTl9JTlNUQU5DRSA9ICJTRUxFQ1QgQ291bnQoRElTVElOQ1QgY29ycG9yYXRpb25JRCkiICsK</text>
       </register>
-      <register name="8" type="4">
-        <text>MESSAGERECIPIENT_DELETE</text>
-      </register>
       <register name="9" type="4">
-        <text>messageRecipient</text>
+        <text>MESSAGERECIPIENT_DELETE</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
