@@ -25,7 +25,9 @@
       <file name="/a.dummy" timestamp="1462571564876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" timestamp="1462571325093" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" timestamp="1462572008769">
+        <mark key="'" line="72" column="24" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationDeletor.java" timestamp="1462390715989">
         <mark key="[" line="9" column="30" />
       </file>
@@ -85,10 +87,11 @@
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/QueueListener.java" timestamp="1462572059876" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
         <mark key="[" line="2" column="37" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/queuetable/QueueTableRunner.java" timestamp="1462570859554" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/queuetable/QueueTableRunner.java" timestamp="1462571983761" />
       <file name="/a.regexp" timestamp="1462215422642">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,13 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2008" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2012" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2013" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="128" column="53" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="214" column="35" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/services/caldera/LoginService.groovy" />
-      <jump line="29" column="0" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
-      <jump line="21" column="24" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
       <jump line="23" column="24" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
       <jump line="15" column="20" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
       <jump line="18" column="24" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
@@ -233,6 +229,13 @@
       <jump line="473" column="37" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="474" column="36" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="521" column="63" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="58" column="41" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="103" column="33" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="39" column="14" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="57" column="63" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="59" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="70" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="72" column="24" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -259,7 +262,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pulse</text>
+        <text>runner</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhyZWFkUG9vbC5nZXRFeGVjdXRvclNlcnZpY2UoKQogICAgICAgICAgICAuc3VibWl0KG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBTaW1wbGVKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlID0gZGF0YVNvdXJjZU1hbmFnZXIuZ2V0RGF0YVNvdXJjZShpbnN0YW5jZU5hbWUpLmdldFNpbXBsZUpkYmNUZW1wbGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIEludGVnZXIgbWF4aW11bVZhbHVlID0gQ29sbGVjdGlvbnMubWF4KGRlbGV0YWJsZU1lc3NhZ2VzKTsKICAgICAgICAgICAgICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKENMSUVOVENPUlBPUkFUSU9OX0RFTEVURSwgbWF4aW11bVZhbHVlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7</text>
@@ -296,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pulse</last-search>
+      <last-search>runner</last-search>
       <last-offset />
-      <last-pattern>pulse</last-pattern>
+      <last-pattern>runner</last-pattern>
       <last-replace>bypass_mobile</last-replace>
       <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
@@ -306,8 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Git</entry>
-        <entry>fire</entry>
         <entry>execution</entry>
         <entry>ExecutionException</entry>
         <entry>UserCall</entry>
@@ -326,6 +327,8 @@
         <entry>user</entry>
         <entry>note</entry>
         <entry>pulse</entry>
+        <entry>queue</entry>
+        <entry>runner</entry>
       </history-search>
       <history-cmd>
         <entry>124</entry>
