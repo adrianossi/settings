@@ -112,8 +112,8 @@
         <mark key="[" line="4" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/messagedeletor/ClientCorporationEmailDeletor.java" timestamp="1462816108283" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1462827499199">
-        <mark key="'" line="358" column="63" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1462829173585">
+        <mark key="'" line="886" column="29" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -147,7 +147,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/DeletionSetting.java" timestamp="1462383007827">
         <mark key="[" line="3" column="74" />
       </file>
-      <file name="/fragment.java" timestamp="1462821945067">
+      <file name="/fragment.java" timestamp="1462828998220">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/test/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationEmailDeletorTest.java" timestamp="1462823867727">
@@ -158,24 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="24" filename="C:/Bullhorn/Tools/bh-env/caldera/plugins/bullhorn-oauth-0.1.8/grails-app/services/com/bullhorn/utilities/OauthService.groovy" />
-      <jump line="2211" column="0" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2978" column="67" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="5" column="6" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" />
-      <jump line="2" column="7" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" />
-      <jump line="3" column="27" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" />
-      <jump line="50" column="72" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/controllers/caldera/BaseController.groovy" />
-      <jump line="980" column="35" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="47" column="11" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email-api/src/main/java/com/bullhorn/email/service/ServiceConstants.java" />
-      <jump line="51" column="77" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email-api/src/main/java/com/bullhorn/email/service/ServiceConstants.java" />
-      <jump line="370" column="0" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
-      <jump line="112" column="16" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
-      <jump line="69" column="65" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
-      <jump line="206" column="16" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
-      <jump line="296" column="54" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
-      <jump line="382" column="54" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
-      <jump line="375" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
-      <jump line="110" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
       <jump line="198" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
       <jump line="288" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
       <jump line="65" column="8" filename="C:/Bullhorn/Tools/bh-env/caldera/grails-app/conf/Config.groovy" />
@@ -220,7 +202,6 @@
       <jump line="0" column="56" filename="/fragment.java" />
       <jump line="44" column="49" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
       <jump line="407" column="25" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="645" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="695" column="17" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="430" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="29" column="71" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/fastfind/FastFindQueryParser.java" />
@@ -258,6 +239,25 @@
       <jump line="72" column="24" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="331" column="17" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="358" column="63" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="639" column="41" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="645" column="40" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="704" column="76" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="707" column="33" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="725" column="94" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="730" column="26" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="731" column="33" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="800" column="15" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="801" column="62" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="802" column="12" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="869" column="48" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="870" column="41" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="876" column="105" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="879" column="61" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="882" column="28" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="883" column="38" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="884" column="32" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="885" column="12" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
+      <jump line="886" column="29" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -284,7 +284,7 @@
         <text>scheduleWithFixedDelay</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Ijw=</text>
+        <text>sendEmail</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhyZWFkUG9vbC5nZXRFeGVjdXRvclNlcnZpY2UoKQogICAgICAgICAgICAuc3VibWl0KG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBTaW1wbGVKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlID0gZGF0YVNvdXJjZU1hbmFnZXIuZ2V0RGF0YVNvdXJjZShpbnN0YW5jZU5hbWUpLmdldFNpbXBsZUpkYmNUZW1wbGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIEludGVnZXIgbWF4aW11bVZhbHVlID0gQ29sbGVjdGlvbnMubWF4KGRlbGV0YWJsZU1lc3NhZ2VzKTsKICAgICAgICAgICAgICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKENMSUVOVENPUlBPUkFUSU9OX0RFTEVURSwgbWF4aW11bVZhbHVlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7</text>
@@ -317,13 +317,13 @@
         <text>r</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>392</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Ijw=</last-search>
+      <last-search>sendEmail</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Ijw=</last-pattern>
+      <last-pattern>sendEmail</last-pattern>
       <last-replace>bypass_mobile</last-replace>
       <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
@@ -331,8 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UserCall</entry>
-        <entry>sendEmail</entry>
         <entry>submit</entry>
         <entry>public void submit</entry>
         <entry>submit()</entry>
@@ -351,6 +349,8 @@
         <entry>runner</entry>
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">Ijw=</entry>
+        <entry>send</entry>
+        <entry>sendEmail</entry>
       </history-search>
       <history-cmd>
         <entry>134</entry>
@@ -371,8 +371,8 @@
         <entry>&quot;w</entry>
         <entry>80</entry>
         <entry>17</entry>
-        <entry>392</entry>
         <entry>w</entry>
+        <entry>392</entry>
       </history-cmd>
       <history-expr />
       <history-input />
