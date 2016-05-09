@@ -19,6 +19,7 @@
         <mark key="[" line="2" column="84" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/insideView/InsideView.java" timestamp="1462814925407" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/util/PrivacyUtil.java" timestamp="1462821034445" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTrackingACLCacheLoader.java" timestamp="1459804247096">
         <mark key="[" line="2" column="41" />
       </file>
@@ -107,7 +108,7 @@
         <mark key="[" line="4" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/messagedeletor/ClientCorporationEmailDeletor.java" timestamp="1462816108283" />
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1462805577087">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" timestamp="1462820775147">
         <mark key="'" line="358" column="63" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -315,7 +316,7 @@
         <text encoding="base64">ICAgIEBCZWZvcmVNZXRob2QK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>392</text>
       </register>
     </registers>
     <search>
@@ -351,7 +352,6 @@
         <entry encoding="base64">Ijw=</entry>
       </history-search>
       <history-cmd>
-        <entry>124</entry>
         <entry>134</entry>
         <entry>74</entry>
         <entry encoding="base64">JzwsJz4lcy9yZWRpci9yZWRpcmVjdA==</entry>
@@ -371,6 +371,7 @@
         <entry>80</entry>
         <entry>17</entry>
         <entry>w</entry>
+        <entry>392</entry>
       </history-cmd>
       <history-expr />
       <history-input />
