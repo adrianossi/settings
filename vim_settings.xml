@@ -72,11 +72,8 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/UserMessagePager.java" timestamp="1462480013981">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="48" />
-        <mark key="^" line="13" column="48" />
-        <mark key="." line="13" column="48" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/UserMessagePager.java" timestamp="1462825928695">
+        <mark key="[" line="14" column="38" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/UserMessageDeletor.java" timestamp="1462462239808">
         <mark key="[" line="16" column="33" />
@@ -104,10 +101,10 @@
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/EmailDeletionService.java" timestamp="1462822903132">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/EmailDeletionService.java" timestamp="1462824861200">
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="67" column="26" />
+        <mark key="." line="67" column="26" />
         <mark key="^" line="43" column="52" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/EmailDeletionService.java" timestamp="1462391086866">
@@ -285,11 +282,11 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
+      <register name="&quot;" type="4">
+        <text>scheduleWithFixedDelay</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>scheduleWithFixedDelay</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Ijw=</text>
@@ -297,32 +294,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhyZWFkUG9vbC5nZXRFeGVjdXRvclNlcnZpY2UoKQogICAgICAgICAgICAuc3VibWl0KG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBTaW1wbGVKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlID0gZGF0YVNvdXJjZU1hbmFnZXIuZ2V0RGF0YVNvdXJjZShpbnN0YW5jZU5hbWUpLmdldFNpbXBsZUpkYmNUZW1wbGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIEludGVnZXIgbWF4aW11bVZhbHVlID0gQ29sbGVjdGlvbnMubWF4KGRlbGV0YWJsZU1lc3NhZ2VzKTsKICAgICAgICAgICAgICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKENMSUVOVENPUlBPUkFUSU9OX0RFTEVURSwgbWF4aW11bVZhbHVlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>scheduleWithFixedDelay</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBuCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>n</text>
       </register>
-      <register name="3" type="4">
-        <text>o</text>
-      </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
