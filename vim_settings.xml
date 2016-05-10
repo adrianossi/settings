@@ -67,13 +67,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1462907286838">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="145" column="58" />
-        <mark key="]" line="145" column="90" />
-        <mark key="^" line="145" column="67" />
-        <mark key="." line="145" column="67" />
-      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationEmailDeletor.java" timestamp="1462815292834">
         <mark key="[" line="7" column="56" />
         <mark key="]" line="9" column="86" />
@@ -131,6 +124,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/DeletableUserMessage.java" timestamp="1462815549283">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/pulse/CallLogServiceImpl.java" timestamp="1462909818013" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services.properties.template" timestamp="1462907130327">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="32" />
