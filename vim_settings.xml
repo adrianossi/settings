@@ -54,6 +54,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/duplicatechecker/AutoAddDuplicateChecker.java" timestamp="1458673561138">
         <mark key="[" line="47" column="58" />
       </file>
+      <file name="C:/Repositories/dataloader/src/main/java/com/bullhorn/dataloader/meta/MetaDataType.java" timestamp="1462892909420" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1461773297791">
         <mark key="[" line="0" column="0" />
       </file>
@@ -85,10 +86,15 @@
         <mark key="^" line="17" column="25" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/queuetable/QueueTableProcessor.java" timestamp="1462571607668" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/autoadd/AutoAddContact.java" timestamp="1462805963524">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationDeletor.java" timestamp="1462390715989">
         <mark key="[" line="9" column="30" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/test/java/com/bullhorn/scheduler/emaildeletion/EmailDeletorTest.java" timestamp="1462891479111">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/test/java/com/bullhorn/scheduler/emaildeletion/EmailDeletorTest.java" timestamp="1462893370870">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
