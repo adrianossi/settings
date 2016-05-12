@@ -6,7 +6,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/MessageDeletor.java" timestamp="1462397850606">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/messagedeletor/AsyncMessageDeletor.java" timestamp="1462900724325">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/messagedeletor/AsyncMessageDeletor.java" timestamp="1463064054313">
         <mark key="[" line="47" column="25" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1462900017990">
@@ -51,6 +51,7 @@
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/messagedeletor/UserMessageDeletor.java" timestamp="1463064052249" />
       <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/WEB-INF/CustomTags/BullhornPro/Tools/BHEditFieldMapSortOrders_platinum.cfm" timestamp="1462990406785">
         <mark key="'" line="1308" column="44" />
       </file>
@@ -111,7 +112,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/magma/src/main/java/com/bullhorn/magma/SocketEmail.java" timestamp="1460580308233">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/EmailDeletionService.java" timestamp="1462997809044">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/EmailDeletionService.java" timestamp="1463063987775">
         <mark key="[" line="89" column="20" />
         <mark key="]" line="89" column="23" />
         <mark key="." line="89" column="23" />
