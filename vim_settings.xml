@@ -299,7 +299,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>databaseInstance</text>
+        <text>usermessage</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhyZWFkUG9vbC5nZXRFeGVjdXRvclNlcnZpY2UoKQogICAgICAgICAgICAuc3VibWl0KG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBTaW1wbGVKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlID0gZGF0YVNvdXJjZU1hbmFnZXIuZ2V0RGF0YVNvdXJjZShpbnN0YW5jZU5hbWUpLmdldFNpbXBsZUpkYmNUZW1wbGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIEludGVnZXIgbWF4aW11bVZhbHVlID0gQ29sbGVjdGlvbnMubWF4KGRlbGV0YWJsZU1lc3NhZ2VzKTsKICAgICAgICAgICAgICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKENMSUVOVENPUlBPUkFUSU9OX0RFTEVURSwgbWF4aW11bVZhbHVlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7</text>
@@ -336,9 +336,9 @@
       </register>
     </registers>
     <search>
-      <last-search>databaseInstance</last-search>
+      <last-search>usermessage</last-search>
       <last-offset />
-      <last-pattern>databaseInstance</last-pattern>
+      <last-pattern>usermessage</last-pattern>
       <last-replace>bypass_mobile</last-replace>
       <last-substitute>bypassMobile</last-substitute>
       <last-dir>1</last-dir>
@@ -346,7 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Derby</entry>
         <entry>userSetting</entry>
         <entry>user</entry>
         <entry>note</entry>
@@ -366,6 +365,7 @@
         <entry>view</entry>
         <entry>client</entry>
         <entry>databaseInstance</entry>
+        <entry>usermessage</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
