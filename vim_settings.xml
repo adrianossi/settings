@@ -3,14 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/email-services/src/main/resources/email-services-context.xml" timestamp="1462900017990">
-        <mark key="'" line="72" column="16" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/staffing-services/src/main/resources/staffing-services-context.xml" timestamp="1462899571977">
-        <mark key="'" line="19" column="51" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" timestamp="1463496888865">
-        <mark key="'" line="107" column="29" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" timestamp="1463513364481">
+        <mark key="'" line="107" column="45" />
+        <mark key="[" line="39" column="92" />
+        <mark key="]" line="39" column="109" />
+        <mark key="." line="39" column="109" />
+        <mark key="^" line="39" column="109" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/parsey/src/main/java/Compressor.java" timestamp="1463164250430">
         <mark key="[" line="273" column="33" />
@@ -18,6 +16,12 @@
         <mark key="." line="275" column="35" />
         <mark key="^" line="275" column="35" />
       </file>
+      <file name="C:/Repositories/pulse_mobile/config/qa.js" timestamp="1462986560474">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jms/listener/DefaultMessageListenerContainer.java" timestamp="1463512591007" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/AsyncMessageDeletor.java" timestamp="1462815362978">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="14" />
@@ -43,16 +47,13 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/WEB-INF/CustomTags/BullhornPro/Tools/BHEditFieldMapSortOrders_platinum.cfm" timestamp="1462990406785">
-        <mark key="'" line="1308" column="44" />
-      </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/QueueDataSourceFactory.java" timestamp="1463421671382">
-        <mark key="[" line="15" column="71" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
-      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/QueueDataSourceFactory.java" timestamp="1463513297616" />
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/data-event/src/main/java/com/bullhorn/dataevent/DataEventServiceImpl.java" timestamp="1463413906427" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/common/src/main/java/com/bullhorn/common/config/BhPropertyPlaceholderConfigurer.java" timestamp="1463513186851">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
       <file name="C:/Bullhorn/Tools/bh-env/parsey/src/main/java/Main.java" timestamp="1463164802354">
         <mark key="[" line="29" column="35" />
         <mark key="]" line="29" column="35" />
@@ -64,6 +65,11 @@
         <mark key="]" line="9" column="86" />
         <mark key="^" line="16" column="31" />
         <mark key="." line="9" column="86" />
+      </file>
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/scheduler-services/src/main/resources/scheduler-services-context.xml" timestamp="1463512862237">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="C:/Repositories/qa_automation/web-automation/email/src/test/resources/test-data/QA/corp-bullhorn4020/test-data/com/bullhorn/automation/emailAutomation/SendReceiveTests.properties" timestamp="1462822071095">
         <mark key="[" line="0" column="18" />
@@ -156,30 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="51" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/daytona/src/main/java/com/bullhorn/daytona/service/RefreshServiceManager.java" />
-      <jump line="1872" column="83" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="141" column="25" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="254" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="255" column="28" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="321" column="4" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
-      <jump line="11" column="5" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
-      <jump line="138" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
-      <jump line="143" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
-      <jump line="149" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
-      <jump line="156" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
-      <jump line="161" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
-      <jump line="167" column="14" filename="$USER_HOME$/.ivy2/cache/org.springframework/spring/srcs/spring-2.5.6-sources.jar!/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java" />
-      <jump line="38" column="21" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/EmailTracker.java" />
-      <jump line="0" column="56" filename="/fragment.java" />
-      <jump line="44" column="49" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/project/Build.scala" />
-      <jump line="407" column="25" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="695" column="17" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="430" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="29" column="71" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/staffing/src/main/java/com/bullhorn/staffing/fastfind/FastFindQueryParser.java" />
-      <jump line="1163" column="8" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="2450" column="52" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="530" column="31" filename="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
-      <jump line="564" column="13" filename="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="601" column="44" filename="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="636" column="29" filename="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="1055" column="57" filename="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
@@ -205,7 +187,6 @@
       <jump line="103" column="33" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="39" column="14" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="57" column="63" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
-      <jump line="59" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="70" column="16" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="72" column="24" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="331" column="17" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
@@ -229,12 +210,10 @@
       <jump line="884" column="32" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="885" column="12" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
       <jump line="886" column="29" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/service/impl/EmailServiceImpl.java" />
-      <jump line="79" column="4" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="102" column="65" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="104" column="39" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="29" column="14" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="44" column="48" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
-      <jump line="66" column="48" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="95" column="14" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="97" column="29" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
       <jump line="19" column="51" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/staffing-services/src/main/resources/staffing-services-context.xml" />
@@ -256,6 +235,33 @@
       <jump line="1308" column="44" filename="C:/Bullhorn/Tools/bh-env/CFusionMX7/wwwroot/WEB-INF/CustomTags/BullhornPro/Tools/BHEditFieldMapSortOrders_platinum.cfm" />
       <jump line="12" column="0" filename="C:/Bullhorn/Tools/bh-env/parsey/src/main/java/Main.java" />
       <jump line="52" column="0" filename="C:/Bullhorn/Tools/bh-env/parsey/src/main/java/Main.java" />
+      <jump line="41" column="40" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="117" column="57" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="124" column="22" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="128" column="40" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="135" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="152" column="29" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="45" column="0" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="49" column="52" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="59" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="60" column="43" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="61" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="62" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="66" column="43" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="78" column="85" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="79" column="76" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="80" column="66" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="81" column="74" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="123" column="22" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="127" column="40" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="133" column="48" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="134" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="150" column="37" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="151" column="29" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="48" column="62" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="108" column="44" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="106" column="46" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
+      <jump line="107" column="45" filename="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -276,52 +282,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS08L2JlYW4+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZW5hYmxlZCIgdmFsdWU9IiR7cHVsc2VRdWV1ZVByb2Nlc3Nvci5lbmFibGVkfSIvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>enabled</text>
       </register>
       <register name="/" type="4">
-        <text>Charsets.UTF_8</text>
+        <text>${pulse</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhyZWFkUG9vbC5nZXRFeGVjdXRvclNlcnZpY2UoKQogICAgICAgICAgICAuc3VibWl0KG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBTaW1wbGVKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlID0gZGF0YVNvdXJjZU1hbmFnZXIuZ2V0RGF0YVNvdXJjZShpbnN0YW5jZU5hbWUpLmdldFNpbXBsZUpkYmNUZW1wbGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIEludGVnZXIgbWF4aW11bVZhbHVlID0gQ29sbGVjdGlvbnMubWF4KGRlbGV0YWJsZU1lc3NhZ2VzKTsKICAgICAgICAgICAgICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKENMSUVOVENPUlBPUkFUSU9OX0RFTEVURSwgbWF4aW11bVZhbHVlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS08L2JlYW4+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZW5hYmxlZCIgdmFsdWU9IiR7cHVsc2VRdWV1ZVByb2Nlc3Nvci5lbmFibGVkfSIvPgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImpuZGlOYW1lIiB2YWx1ZT0iamF2YTpjb21wL2Vudi9qZGJjL3B1bHNlRW1haWxQcm9jZXNzaW5nIi8+LS0+Cg==</text>
+      <register name="2" type="4">
+        <text>enabled</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS08YmVhbiBpZD0icXVldWVEYXRhU291cmNlIiBjbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay5qbmRpLkpuZGlPYmplY3RGYWN0b3J5QmVhbiI+LS0+Cg==</text>
+      <register name="3" type="4">
+        <text>enabled</text>
       </register>
       <register name="4" type="4">
-        <text>name</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="5" type="4">
-        <text>optionalQueueDataSource</text>
+        <text>setEnabled</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>super</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgIExpc3Q8SW50ZWdlcj4geCA9IExpc3RzLm5ld0FycmF5TGlzdCgxLCAyLCAzKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHguc2l6ZSgpOyArK2kpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHguZ2V0KGkpKTsKICAgICAgICB9</text>
+        <text encoding="base64">CiAgICA8YmVhbiBpZD0iZGVsZXRlU2VydmljZSIgYWJzdHJhY3Q9InRydWUiPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJkYXRhRXZlbnRTZXJ2aWNlIiByZWY9ImRhdGFFdmVudFNlcnZpY2UiLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iZGF0YVNvdXJjZU1hbmFnZXIiIHJlZj0iZGF0YVNvdXJjZU1hbmFnZXIiLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0idGhyZWFkUG9vbCIgcmVmPSJkZWxldGlvblRocmVhZFBvb2wiLz4KICAgIDwvYmVhbj4K</text>
       </register>
-      <register name="9" type="4">
-        <text>2</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>usermessage</last-search>
+      <last-search>${pulse</last-search>
       <last-offset />
-      <last-pattern>Charsets.UTF_8</last-pattern>
+      <last-pattern>${pulse</last-pattern>
       <last-replace>CHARSET</last-replace>
       <last-substitute>Charsets.UTF_8</last-substitute>
       <last-dir>1</last-dir>
@@ -329,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>note</entry>
         <entry>pulse</entry>
         <entry>queue</entry>
@@ -341,7 +346,6 @@
         <entry>data</entry>
         <entry>dataService</entry>
         <entry>whois</entry>
-        <entry>${</entry>
         <entry>${sch</entry>
         <entry>View</entry>
         <entry>view</entry>
@@ -349,6 +353,8 @@
         <entry>databaseInstance</entry>
         <entry>usermessage</entry>
         <entry>Charsets.UTF_8</entry>
+        <entry>${</entry>
+        <entry>${pulse</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9yZWRpci9yZWRpcmVjdA==</entry>
