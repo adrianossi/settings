@@ -52,7 +52,7 @@
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/QueueListener.java" timestamp="1463585800766">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/QueueListener.java" timestamp="1463589175936">
         <mark key="[" line="70" column="56" />
         <mark key="]" line="29" column="54" />
         <mark key="^" line="29" column="54" />
@@ -224,11 +224,6 @@
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/main/java/com/bullhorn/scheduler/emaildeletion/DeletionSetting.java" timestamp="1462383007827">
         <mark key="[" line="3" column="74" />
-      </file>
-      <file name="/fragment.java" timestamp="1463585745390">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/scheduler/src/test/java/com/bullhorn/scheduler/emaildeletion/ClientCorporationEmailDeletorTest.java" timestamp="1462823867727">
         <mark key="[" line="6" column="13" />
