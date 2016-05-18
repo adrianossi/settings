@@ -12,12 +12,12 @@
       <file name="/JSRegexp Fragment (PulseConfigCtrl.es6:9296).regexp" timestamp="1460490975193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" timestamp="1463585667761">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/services/src-services/pulse-services/src/main/resources/pulse-services-context.xml" timestamp="1463592525616">
         <mark key="'" line="107" column="45" />
-        <mark key="[" line="39" column="92" />
-        <mark key="]" line="39" column="109" />
-        <mark key="." line="39" column="109" />
-        <mark key="^" line="39" column="109" />
+        <mark key="[" line="40" column="83" />
+        <mark key="]" line="41" column="67" />
+        <mark key="." line="41" column="67" />
+        <mark key="^" line="41" column="67" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/parsey/src/main/java/Compressor.java" timestamp="1463164250430">
         <mark key="[" line="273" column="33" />
@@ -52,7 +52,7 @@
       <file name="C:/Repositories/pulse_mobile/plugins/Cordova-CallLog-Plugin/src/com/ubookr/plugins/CallLogPlugin.java" timestamp="1456953818362">
         <mark key="[" line="194" column="20" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/QueueListener.java" timestamp="1463589175936">
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/QueueListener.java" timestamp="1463592440083">
         <mark key="[" line="70" column="56" />
         <mark key="]" line="29" column="54" />
         <mark key="^" line="29" column="54" />
@@ -77,11 +77,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df9bb01b-a0e6-4cf8-9711-bae9c92e626f/console.sql" timestamp="1458842783691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/QueueDataSourceFactory.java" timestamp="1463585899309">
-        <mark key="[" line="12" column="57" />
-        <mark key="]" line="12" column="57" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="57" />
+      <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/pulse/src/main/java/com/bullhorn/pulse/util/QueueDataSourceFactory.java" timestamp="1463592560089">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/data-event/src/main/java/com/bullhorn/dataevent/DataEventServiceImpl.java" timestamp="1463413906427" />
       <file name="/a.txt" timestamp="1462215430237">
@@ -197,6 +197,7 @@
       <file name="C:/Bullhorn/Tools/bh-env/core-services/projects/email/src/main/java/com/bullhorn/email/track/UserTypeIgnoreBodiable.java" timestamp="1461172820643">
         <mark key="[" line="2" column="37" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/Boolean.java" timestamp="1463592566467" />
       <file name="/Dummy.txt" timestamp="1463519396114">
         <mark key="[" line="0" column="0" />
       </file>
@@ -352,8 +353,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGVuYWJsZWQ7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -364,34 +365,34 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhyZWFkUG9vbC5nZXRFeGVjdXRvclNlcnZpY2UoKQogICAgICAgICAgICAuc3VibWl0KG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBTaW1wbGVKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlID0gZGF0YVNvdXJjZU1hbmFnZXIuZ2V0RGF0YVNvdXJjZShpbnN0YW5jZU5hbWUpLmdldFNpbXBsZUpkYmNUZW1wbGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIEludGVnZXIgbWF4aW11bVZhbHVlID0gQ29sbGVjdGlvbnMubWF4KGRlbGV0YWJsZU1lc3NhZ2VzKTsKICAgICAgICAgICAgICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKENMSUVOVENPUlBPUkFUSU9OX0RFTEVURSwgbWF4aW11bVZhbHVlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGVuYWJsZWQ7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmVuYWJsZWQgPSBTeXN0ZW0uZ2V0ZW52KCJwdWxzZVF1ZXVlUHJvY2Vzc29yRW5hYmxlZCIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoKSB7Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>e</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>.</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>QueueDataSourceFactory queueDataSourceFactory = new QueueDataSourceFactory();
 queueDataSourceFactory.create();
 queueDataSourceFactory</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZW5hYmxlZCIgdmFsdWU9IiR7cHVsc2VRdWV1ZVByb2Nlc3Nvci5lbmFibGVkfSIvPgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>enabled</text>
-      </register>
-      <register name="6" type="4">
-        <text>enabled</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
-      </register>
-      <register name="8" type="4">
-        <text>setEnabled</text>
-      </register>
-      <register name="9" type="4">
-        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
